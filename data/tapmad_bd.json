@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:15 PM 20-09-2026",
+        "LastUpdate": "06:30 PM 20-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
-        "UpcomingCount": 13
+        "LiveCount": 4,
+        "UpcomingCount": 10
     },
     "Matches": [
         {
@@ -26,21 +26,6 @@
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
-            "EntityId": 17575,
-            "VideoName": "GT4 European Series - Race 2",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-09-20 15:35:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT4 European Series - Race 2. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789771724540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789771725540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt4-european-series---race-2",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
             "EntityId": 16971,
             "VideoName": "Getafe vs Malaga",
             "CategoryName": "LaLiga 2026/27",
@@ -50,9 +35,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789846619540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789846619540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--getafe-vs-malaga-live"
+            "UrlSlug": "laliga--getafe-vs-malaga-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "EntityId": 17581,
@@ -64,9 +50,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789772657540456.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789772657540456.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---race-2"
+            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws---race-2",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 17688,
@@ -78,23 +65,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789848939540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789848939540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1115,
-            "UrlSlug": "auxerre-vs-brest-ligue-1-2026"
-        },
-        {
-            "EntityId": 16719,
-            "VideoName": "Edinburgh Castle Rockers vs Belfast Wolves",
-            "CategoryName": "European T20 Premier League 2026",
-            "StageName": "Final",
-            "EventStartDate": "2026-09-20 19:15:00",
-            "Description": "The 32nd match of the European T20 Premier League 2026 brings together top cricket teams and players for an exciting T20 competition. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises intense action as teams compete for the championship title. Watch Edinburgh Castle Rockers vs Belfast Wolves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, six, and match-winning moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789846133540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789846133540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 899,
-            "UrlSlug": "european-t20-premier-league-2026-edinburgh-castle-rockers-vs-belfast-wolves-live"
+            "UrlSlug": "auxerre-vs-brest-ligue-1-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "EntityId": 17587,
@@ -221,6 +195,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--valencia-vs-real-sociedad-live"
+        },
+        {
+            "EntityId": 15814,
+            "VideoName": "Antigua and Barbuda Falcons vs Jamaica Kingsmen",
+            "CategoryName": "Caribbean Premier League 2026",
+            "StageName": "Final",
+            "EventStartDate": "2026-09-21 05:00:00",
+            "Description": "The 47th T20 of the Caribbean Premier League 2026 brings together some of the world's finest T20 cricketers for one of the most exciting franchise tournaments in the game. Featuring explosive batting, skillful bowling, athletic fielding, and thrilling finishes, every match promises nonstop entertainment as teams compete for the championship title. Watch Antigua and Barbuda Falcons vs Jamaica Kingsmen live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every boundary, wicket, and match-winning moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789899220540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789899220540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 731,
+            "UrlSlug": "antigua-and-barbuda-falcons-vs-jamaica-kingsmen-47th-t20-live"
         }
     ]
 }

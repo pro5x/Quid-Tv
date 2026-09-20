@@ -1,0 +1,67 @@
+name: Sync Playlist
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # প্রতি ১০ মিনিটে
+  workflow_dispatch:          # হাতে চালানোর জন্য
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-playlist
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download files
+        run: |
+          mkdir -p data
+
+          # ফরম্যাট: "আউটপুট_ফাইলের_নাম|সোর্স_raw_লিংক"
+          # নিচের লিংকগুলো আপনার আসল সোর্স লিংক দিয়ে বদলান
+          SOURCES=(
+            "tapmad_bd.json|https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.json"
+          )
+
+          for item in "${SOURCES[@]}"; do
+            name="${item%%|*}"
+            url="${item#*|}"
+            echo "Downloading $name"
+            if curl -fsSL --retry 3 --max-time 60 "$url" -o "data/$name.tmp"; then
+              # খালি ফাইল হলে পুরনোটা রেখে দেবে
+              if [ -s "data/$name.tmp" ]; then
+                mv "data/$name.tmp" "data/$name"
+              else
+                echo "Empty file, skipped: $name"
+                rm -f "data/$name.tmp"
+              fi
+            else
+              echo "Failed: $name"
+              rm -f "data/$name.tmp"
+            fi
+          done
+
+      - name: Validate JSON files
+        run: |
+          for f in data/*.json; do
+            [ -e "$f" ] || continue
+            python3 -m json.tool "$f" > /dev/null || { echo "Invalid JSON: $f"; exit 1; }
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

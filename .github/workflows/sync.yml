@@ -2,7 +2,7 @@ name: Sync Playlist
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # প্রতি ১০ মিনিটে
+    - cron: "4,14,24,34,44,54 * * * *"   # প্রতি ১০ মিনিটে (ব্যস্ত সময় এড়িয়ে)
   workflow_dispatch:          # হাতে চালানোর জন্য
 
 permissions:

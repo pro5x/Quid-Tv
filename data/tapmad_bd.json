@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:00 PM 24-09-2026",
+        "LastUpdate": "09:30 PM 24-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -10,20 +10,6 @@
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 17823,
-            "VideoName": "Andorra vs Malta",
-            "CategoryName": "UEFA Nations League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-09-24 22:00:00",
-            "Description": "Watch Andorra vs Malta live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Andorra vs Malta match will take place on 24-Sep, Thursday, at 09:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789993037540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789993037540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1120,
-            "UrlSlug": "andorra-vs-malta-unl-live-match"
-        },
         {
             "EntityId": 17824,
             "VideoName": "Norway vs Denmark",
@@ -219,6 +205,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "turkiye-vs-france-unl-live-match"
+        },
+        {
+            "EntityId": 17838,
+            "VideoName": "Poland vs Bosnia and Herzegovina",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-09-26 00:45:00",
+            "Description": "Watch Poland vs Bosnia and Herzegovina live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Poland vs Bosnia and Herzegovina match will take place on 25-Sep, Friday, at 11:45 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790164981540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790164981540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "poland-vs-bosnia and herzegovina-unl-live-match"
         }
     ]
 }

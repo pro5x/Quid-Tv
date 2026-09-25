@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 25-09-2026",
+        "LastUpdate": "01:30 PM 25-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -207,18 +207,18 @@
             "UrlSlug": "sri-lanka-tour-of-england-2026"
         },
         {
-            "EntityId": 17712,
-            "VideoName": "India vs West Indies",
-            "CategoryName": "West Indies Tour of India 2026",
-            "StageName": "2nd ODI",
-            "EventStartDate": "2026-09-30 14:30:00",
-            "Description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790155237540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790155237540x302.jpg",
+            "EntityId": 17958,
+            "VideoName": "Taiping to Gunung Jerai Live",
+            "CategoryName": "Le Tour de Langkawi 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-09-28 11:45:00",
+            "Description": "Le Tour de Langkawi, Malaysia 2026 brings together top cyclists from around the world for an exciting and challenging professional road cycling competition. Featuring demanding routes, high-speed racing, tough climbs, strategic attacks, and thrilling sprint finishes, every stage delivers intense cycling action. Watch Le Tour de Langkawi, Malaysia 2026 live in HD on tapmad via app, web, or Smart TV. Catch every stage, breakaway, climb, sprint, and thrilling finish live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790320739540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790320739540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026"
+            "CategoryId": 1129,
+            "UrlSlug": "le-tour-de-langkawi-malaysia-2026"
         }
     ]
 }

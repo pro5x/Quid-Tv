@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:15 PM 26-09-2026",
+        "LastUpdate": "11:30 PM 26-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -211,6 +211,34 @@
             "UrlSlug": "sri-lanka-tour-of-england-2026"
         },
         {
+            "EntityId": 17849,
+            "VideoName": "Lithuania vs Azerbaijan",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-09-27 19:00:00",
+            "Description": "Watch Lithuania vs Azerbaijan live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790443181540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790443181540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "lithuania-vs-azerbaijan-unl-live-match"
+        },
+        {
+            "EntityId": 17850,
+            "VideoName": "Denmark vs Wales",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-09-27 22:00:00",
+            "Description": "Watch Denmark vs Wales live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790443417540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790443417540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "denmark-vs-wales-unl-live-match"
+        },
+        {
             "EntityId": 17958,
             "VideoName": "Taiping to Gunung Jerai Live",
             "CategoryName": "Le Tour de Langkawi 2026",
@@ -251,34 +279,6 @@
             "Status": "Upcoming",
             "CategoryId": 1038,
             "UrlSlug": "australia-tour-of-south-africa-2026"
-        },
-        {
-            "EntityId": 17647,
-            "VideoName": "Fakirerpool Young Mens Club vs Mohammedan SC Ltd",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 2",
-            "EventStartDate": "2026-10-02 15:00:00",
-            "Description": "Watch Fakirerpool Young Mens Club vs Mohammedan SC Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Fakirerpool Young Mens Club vs Mohammedan SC Ltd match will take place on 25-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790061626540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790061626540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
-        },
-        {
-            "EntityId": 17648,
-            "VideoName": "Chattogram City FC vs Bangladesh Police FC",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 2",
-            "EventStartDate": "2026-10-02 15:00:00",
-            "Description": "Watch Chattogram City FC vs Bangladesh Police FC in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Chattogram City FC vs Bangladesh Police FC match will take place on 25-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790061713540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790061713540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
         }
     ]
 }

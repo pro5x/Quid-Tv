@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:31 PM 27-09-2026",
+        "LastUpdate": "02:45 PM 27-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -39,20 +39,6 @@
             "CategoryId": 1124,
             "UrlSlug": "west-indies-tour-of-india-2026",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 17388,
-            "VideoName": "England vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of England 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-09-27 15:30:00",
-            "Description": "The Sri Lanka Tour of England 2026 brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. Watch Sri Lanka Tour of England 2026 live in HD on tapmad with official coverage via app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1789985977540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1789985977540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1037,
-            "UrlSlug": "sri-lanka-tour-of-england-2026"
         },
         {
             "EntityId": 17849,
@@ -249,6 +235,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "belgium-vs-france-unl-live-match"
+        },
+        {
+            "EntityId": 17862,
+            "VideoName": "Northern Ireland vs Hungary",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-09-29 00:45:00",
+            "Description": "Watch Northern Ireland vs Hungary live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790449076540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790449076540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "northern-ireland-vs-hungary-unl-live-match"
         }
     ]
 }

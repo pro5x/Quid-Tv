@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:30 PM 27-09-2026",
+        "LastUpdate": "01:45 PM 27-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -39,20 +39,6 @@
             "CategoryId": 1038,
             "UrlSlug": "australia-tour-of-south-africa-2026",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 17711,
-            "VideoName": "India vs West Indies",
-            "CategoryName": "West Indies Tour of India 2026",
-            "StageName": "1st ODI",
-            "EventStartDate": "2026-09-27 14:30:00",
-            "Description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790143346540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790143346540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026"
         },
         {
             "EntityId": 17388,
@@ -249,6 +235,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "romania-vs-bosnia-and-herzegovina-unl-live-match"
+        },
+        {
+            "EntityId": 17861,
+            "VideoName": "Belgium vs France",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-09-29 00:45:00",
+            "Description": "Watch Belgium vs France live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790448695540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790448695540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "belgium-vs-france-unl-live-match"
         }
     ]
 }

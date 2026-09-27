@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 27-09-2026",
+        "LastUpdate": "06:15 PM 27-09-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -54,20 +54,6 @@
             "CategoryId": 1037,
             "UrlSlug": "sri-lanka-tour-of-england-2026",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "EntityId": 17849,
-            "VideoName": "Lithuania vs Azerbaijan",
-            "CategoryName": "UEFA Nations League 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-09-27 19:00:00",
-            "Description": "Watch Lithuania vs Azerbaijan live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790443181540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790443181540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1120,
-            "UrlSlug": "lithuania-vs-azerbaijan-unl-live-match"
         },
         {
             "EntityId": 17850,
@@ -264,6 +250,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "northern-ireland-vs-hungary-unl-live-match"
+        },
+        {
+            "EntityId": 17863,
+            "VideoName": "Turkiye vs Italy",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-09-29 00:45:00",
+            "Description": "Watch Turkiye vs Italy live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790449289540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790449289540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "turkiye-vs-italy-unl-live-match"
         }
     ]
 }

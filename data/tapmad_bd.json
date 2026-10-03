@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:45 AM 03-10-2026",
+        "LastUpdate": "11:00 AM 03-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -10,21 +10,6 @@
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 18019,
-            "VideoName": "Moto 2 - Grand Prix of Shanghai China Live",
-            "CategoryName": "UIM",
-            "StageName": "Race",
-            "EventStartDate": "2026-10-03 08:15:00",
-            "Description": "Watch Moto 2 - Grand Prix of Shanghai China in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790681873540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790681873540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1133,
-            "UrlSlug": "uim-abp-aquabike-world-championship-2026",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
         {
             "EntityId": 18170,
             "VideoName": "GTWC ASIA - Qualification Race",
@@ -41,18 +26,19 @@
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
-            "EntityId": 18025,
-            "VideoName": "Moto 3 - Grand Prix of Shanghai China Live",
-            "CategoryName": "UIM",
-            "StageName": "Race",
-            "EventStartDate": "2026-10-03 11:45:00",
-            "Description": "Watch Moto 3 - Grand Prix of Shanghai China in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790682838540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790682838540x302.jpg",
+            "EntityId": 18176,
+            "VideoName": "SRO GT CUP - Race 1",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-10-03 11:00:00",
+            "Description": "The SRO GT CUP - Race 1 match is scheduled to take place on 03-Oct, at 11:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790774807540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790774807540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1133,
-            "UrlSlug": "uim-abp-aquabike-world-championship-2026"
+            "Status": "Live",
+            "CategoryId": 371,
+            "UrlSlug": "sro-gt-cup-race-1-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 18085,
@@ -249,6 +235,20 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "gt3-revival-series-race-1-live"
+        },
+        {
+            "EntityId": 18128,
+            "VideoName": "Lamborghini Super Trofeo - Race 1",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-10-03 20:50:00",
+            "Description": "The Lamborghini Super Trofeo - Race 1 match is scheduled to take place on 03-Oct, at 08:50 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790767114540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790767114540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "lamborghini-super-trofeo-race-1-live"
         }
     ]
 }

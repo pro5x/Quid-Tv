@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 PM 03-10-2026",
+        "LastUpdate": "01:00 PM 03-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -84,20 +84,6 @@
             "CategoryId": 427,
             "UrlSlug": "round-10-race-inje-south-korea-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
-            "EntityId": 18098,
-            "VideoName": "GT World Challenge powered by AWS - Qualifying 1 (Group A & B) Live",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying 1",
-            "EventStartDate": "2026-10-03 13:50:00",
-            "Description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Qualifying 1 (Group A & B). Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790759140540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790759140540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws-qualifying-1-group-a-&-b-live"
         },
         {
             "EntityId": 18104,
@@ -294,6 +280,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "croatia-vs-england-unl-live-match"
+        },
+        {
+            "EntityId": 17897,
+            "VideoName": "Estonia vs Luxembourg",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-03 22:00:00",
+            "Description": "Watch Estonia vs Luxembourg live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Estonia vs Luxembourg match will take place on 03-Oct, Saturday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790751836540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790751836540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "estonia-vs-luxembourg-unl-live-match"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 AM 04-10-2026",
+        "LastUpdate": "01:15 AM 04-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -54,20 +54,6 @@
             "CategoryId": 1120,
             "UrlSlug": "spain-vs-czechia-unl-live-match",
             "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
-        },
-        {
-            "EntityId": 18241,
-            "VideoName": "FEI NAL - Pueblo, MEX Live",
-            "CategoryName": "Longines FEI Jumping World Cup 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-10-04 02:10:00",
-            "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790924132540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790924132540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 368,
-            "UrlSlug": "longines-fei-jumping-world-cup-nal-2026"
         },
         {
             "EntityId": 18228,
@@ -264,6 +250,20 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "mclaren-trophy-europe-race-2-live"
+        },
+        {
+            "EntityId": 17901,
+            "VideoName": "Azerbaijan vs Lithuania",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-10-04 19:00:00",
+            "Description": "Watch Azerbaijan vs Lithuania live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Azerbaijan vs Lithuania  match will take place on 04-Oct, Sunday, at 07:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV. Watch Azerbaijan vs Lithuania  live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Azerbaijan vs Lithuania  match will take place on 04-Oct, Sunday, at ",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790755743540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790755743540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "azerbaijan-vs-lithuania-unl-live-match"
         }
     ]
 }

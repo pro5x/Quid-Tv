@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:30 PM 03-10-2026",
+        "LastUpdate": "08:45 PM 03-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -41,18 +41,18 @@
             "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
         },
         {
-            "EntityId": 18122,
-            "VideoName": "GT3 Revival Series - Race 1",
+            "EntityId": 18128,
+            "VideoName": "Lamborghini Super Trofeo - Race 1",
             "CategoryName": "GT World Challenge EU & Asia 2026",
             "StageName": "Race 1",
-            "EventStartDate": "2026-10-03 19:30:00",
-            "Description": "The GT3 Revival Series - Race 1 match is scheduled to take place on 03-Oct, at 07:30 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790765573540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790765573540x302.jpg",
+            "EventStartDate": "2026-10-03 20:50:00",
+            "Description": "The Lamborghini Super Trofeo - Race 1 match is scheduled to take place on 03-Oct, at 08:50 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790767114540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790767114540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gt3-revival-series-race-1-live",
+            "UrlSlug": "lamborghini-super-trofeo-race-1-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {

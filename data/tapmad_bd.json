@@ -1,30 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 AM 03-10-2026",
+        "LastUpdate": "11:15 AM 03-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 18170,
-            "VideoName": "GTWC ASIA - Qualification Race",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualification Race",
-            "EventStartDate": "2026-10-03 09:45:00",
-            "Description": "The GTWC ASIA - Qualification Race match is scheduled to take place on 03-Oct, at 09:45 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790774032540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790774032540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gtwc-asia-qualification-race-live",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
         {
             "EntityId": 18176,
             "VideoName": "SRO GT CUP - Race 1",
@@ -39,34 +24,6 @@
             "CategoryId": 371,
             "UrlSlug": "sro-gt-cup-race-1-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 18085,
-            "VideoName": "Pakistan U19 vs Sri Lanka U19",
-            "CategoryName": "Pakistan Women's Under-19s T20 Tri-Series 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-10-03 12:00:00",
-            "Description": "The Pakistan Women's Under-19s T20 Tri-Series 2026/27 brings together Pakistan, Sri Lanka, and Bangladesh for an exciting U19 T20 cricket competition in Faisalabad. Featuring emerging talent, powerful batting, disciplined bowling, competitive matchups, and thrilling finishes, the tri-series showcases the next generation of women's cricket stars. Watch Pakistan Women's Under-19s T20 Tri-Series 2026/27 live in HD on tapmad via app, web, or Smart TV. Catch every run, wicket, boundary, partnership, and match-defining moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790772939540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790772939540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1135,
-            "UrlSlug": "pakistan-womens-under-19s-t20-tri-series-2026-27"
-        },
-        {
-            "EntityId": 18037,
-            "VideoName": "Round 10 Race - Inje, South Korea Live",
-            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-10-03 12:05:00",
-            "Description": "Live Stream Round 10 Race - Inje, South Korea Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790753745540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790753745540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 427,
-            "UrlSlug": "round-10-race-inje-south-korea-live"
         },
         {
             "EntityId": 18182,
@@ -249,6 +206,34 @@
             "Status": "Upcoming",
             "CategoryId": 371,
             "UrlSlug": "lamborghini-super-trofeo-race-1-live"
+        },
+        {
+            "EntityId": 17894,
+            "VideoName": "Iceland vs Bulgaria",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-03 22:00:00",
+            "Description": "Watch Iceland vs Bulgaria live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Iceland vs Bulgaria match will take place on 03-Oct, Saturday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790686311540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790686311540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "iceland-vs-bulgaria-unl-live-match"
+        },
+        {
+            "EntityId": 17895,
+            "VideoName": "Belarus vs San Marino",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-03 22:00:00",
+            "Description": "Watch Belarus vs San Marino live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Belarus vs San Marino match will take place on 03-Oct, Saturday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790686514540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790686514540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "belarus-vs-san marino-unl-live-match"
         }
     ]
 }

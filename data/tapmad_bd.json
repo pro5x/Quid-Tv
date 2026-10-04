@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:45 AM 04-10-2026",
+        "LastUpdate": "08:00 AM 04-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -39,20 +39,6 @@
             "CategoryId": 427,
             "UrlSlug": "round-11-race-inje-south-korea-live",
             "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "EntityId": 18200,
-            "VideoName": "SRO GT CUP - Race 3",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 3",
-            "EventStartDate": "2026-10-04 08:50:00",
-            "Description": "The  SRO GT CUP - Race 3 match is scheduled to take place on 04-Oct, at 09:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790856676540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790856676540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "sro-gt-cup-race-3-live"
         },
         {
             "EntityId": 18055,
@@ -249,6 +235,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "andorra-vs-malta-unl-live-match"
+        },
+        {
+            "EntityId": 17904,
+            "VideoName": "Greece vs Germany",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-10-05 00:45:00",
+            "Description": "Watch Greece vs Germany live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Greece vs Germany match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756339540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790756339540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "greece-vs-germany-unl-live-match"
         }
     ]
 }

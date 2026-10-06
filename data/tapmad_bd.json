@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 06-10-2026",
+        "LastUpdate": "06:45 PM 06-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -20,9 +20,10 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791280737540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1791280737540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026"
+            "UrlSlug": "west-indies-tour-of-india-2026",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
         },
         {
             "EntityId": 17917,
@@ -219,6 +220,20 @@
             "Status": "Upcoming",
             "CategoryId": 1038,
             "UrlSlug": "australia-tour-of-south-africa-2026"
+        },
+        {
+            "EntityId": 18244,
+            "VideoName": "Rahamatgonj MFS vs PWD Sports Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 3",
+            "EventStartDate": "2026-10-09 14:45:00",
+            "Description": "Watch Rahamatgonj MFS vs PWD Sports Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Rahamatgonj MFS vs PWD Sports Club match will take place on 09-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790925292540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790925292540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2026"
         }
     ]
 }

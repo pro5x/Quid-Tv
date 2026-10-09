@@ -1,15 +1,32 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:03 PM 09-10-2026",
+        "LastUpdate": "11:15 PM 09-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
-        "UpcomingCount": 94
+        "LiveCount": 3,
+        "UpcomingCount": 93
     },
     "Matches": [
+        {
+            "EntityId": 17094,
+            "VideoName": "Al-Nassr vs Diriyah",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 8",
+            "EventStartDate": "2026-10-10 00:00:00",
+            "Description": "The match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Nassr vs Diriyah live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926369324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909263691020x576.jpg",
+            "IsFreeToWatch": false,
+            "CategoryId": 799,
+            "regionsAllowed": "BD,NP",
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Live",
+            "UrlSlug": "saudi-pro-league--al-nassr-vs-diriyah-live"
+        },
         {
             "EntityId": 17715,
             "VideoName": "India vs West Indies",
@@ -21,47 +38,29 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912807661020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
             "Status": "Live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+            "UrlSlug": "west-indies-tour-of-india-2026"
         },
         {
-            "EntityId": 18302,
-            "VideoName": "Pakistan vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of Pakistan 2026",
-            "StageName": "1st T20I",
-            "EventStartDate": "2026-10-09 19:00:00",
-            "Description": "The Sri Lanka Tour of Pakistan T20I 2026/27 brings Pakistan and Sri Lanka together for an exciting three-match T20I series. Featuring explosive batting, powerful hitting, quality bowling, and intense matchups, every game delivers thrilling T20 cricket action. Watch Sri Lanka Tour of Pakistan T20I 2026/27 live in HD on tapmad via app, web, or Smart TV. Catch every run, wicket, boundary, six, and match-defining moment live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791546521324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465211020x576.jpg",
+            "EntityId": 18246,
+            "VideoName": "Mohammedan SC Ltd vs Arambagh Krira Shangha",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 3",
+            "EventStartDate": "2026-10-10 14:45:00",
+            "Description": "Watch Mohammedan SC Ltd vs Arambagh Krira Shangha in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Mohammedan SC Ltd vs Arambagh Krira Shangha match will take place on 09-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925585324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909255851020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": 1148,
-            "UrlSlug": "sri-lanka-tour-of-pakistan-t20i-2026-27",
+            "CategoryId": 1105,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Cricket",
+            "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
-        },
-        {
-            "EntityId": 17094,
-            "VideoName": "Al-Nassr vs Diriyah",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 8",
-            "EventStartDate": "2026-10-10 00:00:00",
-            "Description": "",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926369324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926369324x432.jpg",
-            "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "saudi-pro-league--al-nassr-vs-diriyah-live",
-            "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "UrlSlug": "bangladesh-football-league-2026"
         },
         {
             "EntityId": 17095,
@@ -74,11 +73,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909272181020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league-al-hilal-vs-al-ittihad-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "saudi-pro-league-al-hilal-vs-al-ittihad-live"
         },
         {
             "EntityId": 17096,
@@ -91,11 +90,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909273721020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league-al-shabab-vs-al-taawoun-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "saudi-pro-league-al-shabab-vs-al-taawoun-live"
         },
         {
             "EntityId": 17716,
@@ -108,11 +107,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "west-indies-tour-of-india-2026"
         },
         {
             "EntityId": 17717,
@@ -125,11 +124,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913545741020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "west-indies-tour-of-india-2026"
         },
         {
             "EntityId": 17718,
@@ -142,11 +141,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913546781020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1124,
-            "UrlSlug": "west-indies-tour-of-india-2026",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "west-indies-tour-of-india-2026"
         },
         {
             "EntityId": 18090,
@@ -159,11 +158,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909375851020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1135,
-            "UrlSlug": "pakistan-womens-under-19s-t20-tri-series-2026-27",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "pakistan-womens-under-19s-t20-tri-series-2026-27"
         },
         {
             "EntityId": 18230,
@@ -171,16 +170,16 @@
             "CategoryName": "UFC 2026",
             "StageName": "Fight Night",
             "EventStartDate": "2026-10-11 06:00:00",
-            "Description": "",
+            "Description": "UFC Fight Night Live: Watch Allen vs Duncan live online on tapmad. Enjoy watching Allen vs Duncan live streaming online with full match highlights. The fight will start at 06:00 AM on 04-Oct. Boost your adrenaline by watching the UFC Fight Night contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790939442324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790939442324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909394421020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "ufc fight night-allen vs duncan-live",
+            "CategoryId": 265,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Mma",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "ufc fight night-allen vs duncan-live"
         },
         {
             "EntityId": 18248,
@@ -193,11 +192,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909258191020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "bangladesh-football-league-2026"
         },
         {
             "EntityId": 18260,
@@ -210,11 +209,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909365271020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1106,
-            "UrlSlug": "federation-cup-football-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "federation-cup-football-live"
         },
         {
             "EntityId": 18261,
@@ -227,11 +226,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909366421020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1106,
-            "UrlSlug": "federation-cup-football-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "federation-cup-football-live"
         },
         {
             "EntityId": 18262,
@@ -244,11 +243,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909367541020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1106,
-            "UrlSlug": "federation-cup-football-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "federation-cup-football-live"
         },
         {
             "EntityId": 18263,
@@ -261,11 +260,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909368641020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1106,
-            "UrlSlug": "federation-cup-football-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "federation-cup-football-live"
         },
         {
             "EntityId": 18264,
@@ -278,11 +277,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909369591020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1106,
-            "UrlSlug": "federation-cup-football-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "federation-cup-football-live"
         },
         {
             "EntityId": 18265,
@@ -290,16 +289,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-10 01:00:00",
-            "Description": "",
+            "Description": "The 68th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga  vs Espanyol live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925650324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925650324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909256501020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--malaga--vs-espanyol-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--malaga--vs-espanyol-live"
         },
         {
             "EntityId": 18266,
@@ -307,16 +306,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-10 18:00:00",
-            "Description": "",
+            "Description": "The 69th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch  Rayo Vallecano vs  Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925829324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790925829324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909258291020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga---rayo-vallecano-vs--rayo-vallecano-live"
         },
         {
             "EntityId": 18267,
@@ -324,16 +323,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-10 20:15:00",
-            "Description": "",
+            "Description": "The 70th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch  Alaves vs Atletico Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926001324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926001324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909260011020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga---alaves-vs-atletico-madrid-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga---alaves-vs-atletico-madrid-live"
         },
         {
             "EntityId": 18268,
@@ -341,16 +340,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-10 22:30:00",
-            "Description": "",
+            "Description": "The 71th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona  vs Getafe live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926258324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926258324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909262581020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--barcelona--vs-getafe-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--barcelona--vs-getafe-live"
         },
         {
             "EntityId": 18269,
@@ -358,16 +357,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-11 01:00:00",
-            "Description": "",
+            "Description": "The 72th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Madrid vs Villarreal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926464324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926464324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909264641020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--real-madrid-vs-villarreal-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--real-madrid-vs-villarreal-live"
         },
         {
             "EntityId": 18270,
@@ -375,16 +374,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-11 18:00:00",
-            "Description": "",
+            "Description": "The 73th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Elche vs  Celta live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926649324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926649324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909266491020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--elche-vs--celta-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--elche-vs--celta-live"
         },
         {
             "EntityId": 18271,
@@ -392,16 +391,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-11 20:15:00",
-            "Description": "",
+            "Description": "The 74th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Deportivo live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926836324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926836324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909268361020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--real-sociedad-vs-deportivo-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--real-sociedad-vs-deportivo-live"
         },
         {
             "EntityId": 18272,
@@ -409,16 +408,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-11 22:30:00",
-            "Description": "",
+            "Description": "The 75th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Osasuna live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926985324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790926985324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909269851020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--betis-vs-osasuna-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--betis-vs-osasuna-live"
         },
         {
             "EntityId": 18273,
@@ -426,16 +425,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-12 01:00:00",
-            "Description": "",
+            "Description": "The 76th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790927153324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790927153324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909271531020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--racing-santander-vs-valencia-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--racing-santander-vs-valencia-live"
         },
         {
             "EntityId": 18274,
@@ -443,16 +442,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 8",
             "EventStartDate": "2026-10-13 01:00:00",
-            "Description": "",
+            "Description": "The 77th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch  Levante vs Sevilla live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790927520324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790927520324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909275201020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga---levante-vs-sevilla-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga---levante-vs-sevilla-live"
         },
         {
             "EntityId": 18275,
@@ -460,16 +459,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-17 01:00:00",
-            "Description": "",
+            "Description": "The 78th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790932697324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790932697324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909326981020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--deportivo-vs-levante-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--deportivo-vs-levante-live"
         },
         {
             "EntityId": 18276,
@@ -477,16 +476,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-17 18:00:00",
-            "Description": "",
+            "Description": "The 79th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Espanyol vs Atletico Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790932864324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790932864324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909328641020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--espanyol-vs-atletico-madrid-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--espanyol-vs-atletico-madrid-live"
         },
         {
             "EntityId": 18277,
@@ -494,16 +493,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-17 20:15:00",
-            "Description": "",
+            "Description": "The 80th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Villarreal vs Elche live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933029324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933029324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909330291020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--villarreal-vs-elche-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--villarreal-vs-elche-live"
         },
         {
             "EntityId": 18278,
@@ -511,16 +510,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-17 22:30:00",
-            "Description": "",
+            "Description": "The 81th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Barcelona live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933165324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933165324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909331651020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--betis-vs-barcelona-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--betis-vs-barcelona-live"
         },
         {
             "EntityId": 18279,
@@ -528,16 +527,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-18 01:00:00",
-            "Description": "",
+            "Description": "The 82th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Valencia vs Athletic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933303324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933303324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909333031020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--valencia-vs-athletic-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--valencia-vs-athletic-live"
         },
         {
             "EntityId": 18280,
@@ -545,16 +544,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-18 18:00:00",
-            "Description": "",
+            "Description": "The 83th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Osasuna vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933450324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933450324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909334501020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--osasuna-vs-racing-santander-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--osasuna-vs-racing-santander-live"
         },
         {
             "EntityId": 18281,
@@ -562,16 +561,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-18 20:15:00",
-            "Description": "",
+            "Description": "The 84th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Celta vs Alaves live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933574324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933574324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909335741020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--celta-vs-alaves-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--celta-vs-alaves-live"
         },
         {
             "EntityId": 18282,
@@ -579,16 +578,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-18 22:30:00",
-            "Description": "",
+            "Description": "The 85th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Real Sociedad live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933704324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790933704324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909337051020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--malaga-vs-real-sociedad-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--malaga-vs-real-sociedad-live"
         },
         {
             "EntityId": 18283,
@@ -596,16 +595,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-19 01:00:00",
-            "Description": "",
+            "Description": "The 86th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Madrid vs Sevilla live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790936320324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790936320324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909363211020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--real-madrid-vs-sevilla-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--real-madrid-vs-sevilla-live"
         },
         {
             "EntityId": 18284,
@@ -613,16 +612,16 @@
             "CategoryName": "LaLiga 2026/27",
             "StageName": "MATCHDAY 9",
             "EventStartDate": "2026-10-20 01:00:00",
-            "Description": "",
+            "Description": "The 87th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Getafe vs Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790936443324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1790936443324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909364431020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "laliga--getafe-vs-rayo-vallecano-live",
+            "CategoryId": 827,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "laliga--getafe-vs-rayo-vallecano-live"
         },
         {
             "EntityId": 18303,
@@ -635,11 +634,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465331020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1148,
-            "UrlSlug": "sri-lanka-tour-of-pakistan-t20i-2026-27",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "sri-lanka-tour-of-pakistan-t20i-2026-27"
         },
         {
             "EntityId": 18304,
@@ -652,11 +651,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465481020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1148,
-            "UrlSlug": "sri-lanka-tour-of-pakistan-t20i-2026-27",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "sri-lanka-tour-of-pakistan-t20i-2026-27"
         },
         {
             "EntityId": 18341,
@@ -664,16 +663,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 22:45:00",
-            "Description": "",
+            "Description": "Watch Lens vs Sporting CP live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Sporting CP match will take place on 13-Oct, Tuesday, at 09:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791189230324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791189230324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911892301020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "lens-vs-sporting cp-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "lens-vs-sporting cp-ucl-live-match"
         },
         {
             "EntityId": 18342,
@@ -681,16 +680,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 22:45:00",
-            "Description": "",
+            "Description": "Watch Sabah vs Slavia Praha live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Sabah vs Slavia Praha match will take place on 13-Oct, Tuesday, at 09:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791189392324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791189392324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911893921020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "sabah-vs-slavia praha-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "sabah-vs-slavia praha-ucl-live-match"
         },
         {
             "EntityId": 18343,
@@ -703,11 +702,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914407791020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 826,
-            "UrlSlug": "galatasaray-vs-barcelona-ucl-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "galatasaray-vs-barcelona-ucl-live-match"
         },
         {
             "EntityId": 18344,
@@ -715,16 +714,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 01:00:00",
-            "Description": "",
+            "Description": "Watch RB Leipzig vs PSV Eindhoven live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The RB Leipzig vs PSV Eindhoven match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791441025324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791441025324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914410251020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "rb leipzig-vs-psv eindhoven-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "rb leipzig-vs-psv eindhoven-ucl-live-match"
         },
         {
             "EntityId": 18345,
@@ -737,11 +736,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914403301020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 826,
-            "UrlSlug": "arsenal-vs-lille-ucl-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "arsenal-vs-lille-ucl-live-match"
         },
         {
             "EntityId": 18346,
@@ -749,16 +748,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 01:00:00",
-            "Description": "",
+            "Description": "Watch Atletico Madrid vs Manchester United live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Atletico Madrid vs Manchester United match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791440503324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791440503324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914405031020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "atletico madrid-vs-manchester united-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "atletico madrid-vs-manchester united-ucl-live-match"
         },
         {
             "EntityId": 18347,
@@ -771,11 +770,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914430791020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 826,
-            "UrlSlug": "villarreal-vs-napoli-ucl-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "villarreal-vs-napoli-ucl-live-match"
         },
         {
             "EntityId": 18348,
@@ -783,16 +782,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 01:00:00",
-            "Description": "",
+            "Description": "Watch Viking vs Bayern Munchen live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Viking vs Bayern Munchen match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791441247324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791441247324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914412471020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "viking-vs-bayern munchen-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "viking-vs-bayern munchen-ucl-live-match"
         },
         {
             "EntityId": 18349,
@@ -800,16 +799,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 01:00:00",
-            "Description": "",
+            "Description": "Watch Inter vs Club Brugge live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Inter vs Club Brugge match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791440639324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791440639324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914406391020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "inter-vs-club brugge-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "inter-vs-club brugge-ucl-live-match"
         },
         {
             "EntityId": 18350,
@@ -822,11 +821,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914434581020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 826,
-            "UrlSlug": "lask-vs-liverpool-ucl-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "lask-vs-liverpool-ucl-live-match"
         },
         {
             "EntityId": 18351,
@@ -839,11 +838,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914432931020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 826,
-            "UrlSlug": "feyenoord-vs-como-ucl-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "feyenoord-vs-como-ucl-live-match"
         },
         {
             "EntityId": 18352,
@@ -851,16 +850,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Shakhtar Donetsk vs AEK Athens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Shakhtar Donetsk vs AEK Athens match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444130324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444130324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914441301020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "shakhtar donetsk-vs-aek athens-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "shakhtar donetsk-vs-aek athens-ucl-live-match"
         },
         {
             "EntityId": 18353,
@@ -868,16 +867,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Real Betis vs Porto live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Real Betis vs Porto match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444743324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444743324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914447441020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "real betis-vs-porto-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "real betis-vs-porto-ucl-live-match"
         },
         {
             "EntityId": 18354,
@@ -885,16 +884,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Roma vs Real Madrid live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Roma vs Real Madrid match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791443809324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791443809324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914438101020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "roma-vs-real madrid-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "roma-vs-real madrid-ucl-live-match"
         },
         {
             "EntityId": 18355,
@@ -902,16 +901,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Slovan Bratislava vs Stuttgart live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slovan Bratislava vs Stuttgart match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444904324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444904324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914449041020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "slovan bratislava-vs-stuttgart-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "slovan bratislava-vs-stuttgart-ucl-live-match"
         },
         {
             "EntityId": 18356,
@@ -919,16 +918,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Aston Villa vs Fenerbahce live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Aston Villa vs Fenerbahce match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791443946324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791443946324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914439461020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "aston villa-vs-fenerbahce-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "aston villa-vs-fenerbahce-ucl-live-match"
         },
         {
             "EntityId": 18357,
@@ -936,16 +935,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Manchester City vs Paris Saint-Germain live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Manchester City vs Paris Saint-Germain match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444600324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444600324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914446001020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "manchester city-vs-paris saint-germain-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "manchester city-vs-paris saint-germain-ucl-live-match"
         },
         {
             "EntityId": 18358,
@@ -953,16 +952,16 @@
             "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-15 01:00:00",
-            "Description": "",
+            "Description": "Watch Bodo/Glimt vs Borussia Dortmund live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bodo/Glimt vs Borussia Dortmund match will take place on 15-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444315324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791444315324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914443151020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "bodo/glimt-vs-borussia dortmund-ucl-live-match",
+            "CategoryId": 826,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "bodo/glimt-vs-borussia dortmund-ucl-live-match"
         },
         {
             "EntityId": 18413,
@@ -975,11 +974,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911870941020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1115,
-            "UrlSlug": "lens-vs-ol-ligue-one-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "lens-vs-ol-ligue-one-live-match"
         },
         {
             "EntityId": 18414,
@@ -987,16 +986,16 @@
             "CategoryName": "French Ligue 1 2026/27",
             "StageName": "MATCHDAY 6",
             "EventStartDate": "2026-10-10 21:15:00",
-            "Description": "",
+            "Description": "Watch LOSC vs Le Havre live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The LOSC vs Le Havre match will take place on 10-Oct, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791191670324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791191670324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911916701020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "losc-vs-le havre-ligue-one-live-match",
+            "CategoryId": 1115,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "losc-vs-le havre-ligue-one-live-match"
         },
         {
             "EntityId": 18415,
@@ -1004,16 +1003,16 @@
             "CategoryName": "French Ligue 1 2026/27",
             "StageName": "MATCHDAY 6",
             "EventStartDate": "2026-10-11 00:45:00",
-            "Description": "",
+            "Description": "Watch Lorient vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Paris FC match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791191930324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791191930324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911919301020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "lorient-vs-paris fc-ligue-one-live-match",
+            "CategoryId": 1115,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "lorient-vs-paris fc-ligue-one-live-match"
         },
         {
             "EntityId": 18416,
@@ -1026,11 +1025,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911921421020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1115,
-            "UrlSlug": "monoca-vs-toulouse-ligue-one-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "monoca-vs-toulouse-ligue-one-live-match"
         },
         {
             "EntityId": 18417,
@@ -1043,11 +1042,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911923011020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1115,
-            "UrlSlug": "brest-vs-angers-ligue-one-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "brest-vs-angers-ligue-one-live-match"
         },
         {
             "EntityId": 18418,
@@ -1055,16 +1054,16 @@
             "CategoryName": "French Ligue 1 2026/27",
             "StageName": "MATCHDAY 6",
             "EventStartDate": "2026-10-11 00:45:00",
-            "Description": "",
+            "Description": "Watch PSG vs Le Mans live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs Le Mans match will take place on 11-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192451324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791192451324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911924511020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "psg-vs-le mans-ligue-one-live-match",
+            "CategoryId": 1115,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "psg-vs-le mans-ligue-one-live-match"
         },
         {
             "EntityId": 18419,
@@ -1077,11 +1076,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911925921020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1115,
-            "UrlSlug": "nice-vs-strasbourg-ligue-one-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "nice-vs-strasbourg-ligue-one-live-match"
         },
         {
             "EntityId": 18420,
@@ -1094,11 +1093,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911927211020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1115,
-            "UrlSlug": "rennes-vs-auxerre-ligue-one-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "rennes-vs-auxerre-ligue-one-live-match"
         },
         {
             "EntityId": 18421,
@@ -1111,11 +1110,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911928661020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 1115,
-            "UrlSlug": "troyes-vs-marseille-ligue-one-live-match",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "troyes-vs-marseille-ligue-one-live-match"
         },
         {
             "EntityId": 18458,
@@ -1128,11 +1127,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913591511020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18463,
@@ -1145,11 +1144,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913596451020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18468,
@@ -1162,11 +1161,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914538581020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18473,
@@ -1179,11 +1178,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914546111020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18478,
@@ -1196,11 +1195,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914549581020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18483,
@@ -1213,11 +1212,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914554331020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18493,
@@ -1230,11 +1229,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915278421020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18498,
@@ -1247,11 +1246,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915281401020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18503,
@@ -1264,11 +1263,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914542551020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18508,
@@ -1281,11 +1280,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915287471020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18513,
@@ -1298,11 +1297,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915313061020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18518,
@@ -1315,11 +1314,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915489241020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18523,
@@ -1332,11 +1331,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915492261020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18528,
@@ -1349,11 +1348,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915496221020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18533,
@@ -1366,11 +1365,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915499601020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 18618,
@@ -1383,11 +1382,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912759031020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 275,
-            "UrlSlug": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Mma",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live"
         },
         {
             "EntityId": 18623,
@@ -1395,16 +1394,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-12 19:45:00",
-            "Description": "",
+            "Description": "Watch Pakhtakor vs Al Qadsiah Club live online on tapmad. The AFC Champions League Elite Pakhtakor vs Al Qadsiah Club match is scheduled to take place on 12-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791276331324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791276331324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912763311020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Pakhtakor vs Al Qadsiah Club",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Pakhtakor vs Al Qadsiah Club"
         },
         {
             "EntityId": 18628,
@@ -1412,16 +1411,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-12 22:00:00",
-            "Description": "",
+            "Description": "Watch Tractor FC vs Al Shamal SC live online on tapmad. The AFC Champions League Elite Tractor FC vs Al Shamal SC match is scheduled to take place on 12-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791276741324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791276741324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912767411020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Tractor FC vs Al Shamal SC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Tractor FC vs Al Shamal SC"
         },
         {
             "EntityId": 18633,
@@ -1429,16 +1428,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-12 22:00:00",
-            "Description": "",
+            "Description": "Watch Al Wasl FC vs Al Ahli Saudi FC live online on tapmad. The AFC Champions League Elite Al Wasl FC vs Al Ahli Saudi FC match is scheduled to take place on 12-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791277417324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791277417324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912774171020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Al Wasl FC vs Al Ahli Saudi FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Al Wasl FC vs Al Ahli Saudi FC"
         },
         {
             "EntityId": 18638,
@@ -1446,16 +1445,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 00:15:00",
-            "Description": "",
+            "Description": "Watch Air Force SC vs Al Ain FC live online on tapmad. The AFC Champions League Elite Air Force SC vs Al Ain FC match is scheduled to take place on 12-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791277740324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791277740324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912777401020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Air Force SC vs Al Ain FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Air Force SC vs Al Ain FC"
         },
         {
             "EntityId": 18643,
@@ -1463,16 +1462,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 00:15:00",
-            "Description": "",
+            "Description": "Watch Al Gharafa SC vs Esteghlal FC live online on tapmad. The AFC Champions League Elite Al Gharafa SC vs Esteghlal FC match is scheduled to take place on 12-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791278083324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791278083324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912780831020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Al Gharafa SC vs Esteghlal FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Al Gharafa SC vs Esteghlal FC"
         },
         {
             "EntityId": 18648,
@@ -1480,16 +1479,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 00:15:00",
-            "Description": "",
+            "Description": "Watch Al Nassr Club vs PFC Neftchi live online on tapmad. The AFC Champions League Elite Al Nassr Club vs PFC Neftchi match is scheduled to take place on 12-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791360524324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791360524324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913605241020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Al Nassr Club vs PFC Neftchi",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Al Nassr Club vs PFC Neftchi"
         },
         {
             "EntityId": 18658,
@@ -1497,16 +1496,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 16:00:00",
-            "Description": "",
+            "Description": "Watch Shanghai Port FC vs Daejeon Hana Citizen FC live online on tapmad. The AFC Champions League Elite Shanghai Port FC vs Daejeon Hana Citizen FC match is scheduled to take place on 13-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791361421324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791361421324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913614211020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Shanghai Port FC vs Daejeon Hana Citizen FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Shanghai Port FC vs Daejeon Hana Citizen FC"
         },
         {
             "EntityId": 18663,
@@ -1519,11 +1518,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791363575324x432.jpg",
             "IsFreeToWatch": false,
             "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-FC Pohang Steelers vs Johor Darul Ta'zim FC",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Sports",
             "is_full_data": false,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-FC Pohang Steelers vs Johor Darul Ta'zim FC"
         },
         {
             "EntityId": 18673,
@@ -1531,16 +1530,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 18:15:00",
-            "Description": "",
+            "Description": "Watch Buriram United vs Beijing FC live online on tapmad. The AFC Champions League Elite Buriram United vs Beijing FC match is scheduled to take place on 13-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791365332324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791365332324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913653321020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Buriram United vs Beijing FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Buriram United vs Beijing FC"
         },
         {
             "EntityId": 18678,
@@ -1548,16 +1547,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 18:15:00",
-            "Description": "",
+            "Description": "Watch Cong An Hai Noi FC vs Kashima Antlers live online on tapmad. The AFC Champions League Elite Cong An Hai Noi FC vs Kashima Antlers match is scheduled to take place on 13-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791365766324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791365766324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913657661020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Cong An Hai Noi FC vs Kashima Antlers",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Cong An Hai Noi FC vs Kashima Antlers"
         },
         {
             "EntityId": 18683,
@@ -1565,16 +1564,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-13 22:00:00",
-            "Description": "",
+            "Description": "Watch Al Sadd SC vs Al Hilal SFC live online on tapmad. The AFC Champions League Elite Al Sadd SC vs Al Hilal SFC match is scheduled to take place on 13-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791366374324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791366374324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913663741020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Al Sadd SC vs Al Hilal SFC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Al Sadd SC vs Al Hilal SFC"
         },
         {
             "EntityId": 18688,
@@ -1582,16 +1581,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 00:15:00",
-            "Description": "",
+            "Description": "Watch Al Ittihad Club vs Shabab Al Ahli live online on tapmad. The AFC Champions League Elite Al Ittihad Club vs Shabab Al Ahli match is scheduled to take place on 13-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791366814324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791366814324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913668141020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Al Ittihad Club vs Shabab Al Ahli",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Al Ittihad Club vs Shabab Al Ahli"
         },
         {
             "EntityId": 18693,
@@ -1599,16 +1598,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 16:00:00",
-            "Description": "",
+            "Description": "Watch Kashiwa Reysol vs Port FC live online on tapmad. The AFC Champions League Elite Kashiwa Reysol vs Port FC match is scheduled to take place on 14-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791451842324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791451842324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914518421020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Kashiwa Reysol vs Port FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Kashiwa Reysol vs Port FC"
         },
         {
             "EntityId": 18698,
@@ -1616,16 +1615,16 @@
             "CategoryName": "AFC Champions League Elite 2026/27",
             "StageName": "MATCHDAY 2",
             "EventStartDate": "2026-10-14 16:00:00",
-            "Description": "",
+            "Description": "Watch Vissel Kobe vs Jeonbuk Hyundai Motors FC live online on tapmad. The AFC Champions League Elite Vissel Kobe vs Jeonbuk Hyundai Motors FC match is scheduled to take place on 14-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791452312324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791452312324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914523121020x576.jpg",
             "IsFreeToWatch": false,
-            "CategoryId": "",
-            "UrlSlug": "afc-champions-league-elite-Vissel Kobe vs Jeonbuk Hyundai Motors FC",
+            "CategoryId": 828,
             "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Sports",
-            "is_full_data": false,
-            "Status": "Upcoming"
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "afc-champions-league-elite-Vissel Kobe vs Jeonbuk Hyundai Motors FC"
         },
         {
             "EntityId": 18898,
@@ -1638,11 +1637,11 @@
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913540031020x576.jpg",
             "IsFreeToWatch": false,
             "CategoryId": 368,
-            "UrlSlug": "longines-fei-jumping-world-cup-nal-2030",
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Horse Riding",
             "is_full_data": true,
-            "Status": "Upcoming"
+            "Status": "Upcoming",
+            "UrlSlug": "longines-fei-jumping-world-cup-nal-2030"
         }
     ]
 }

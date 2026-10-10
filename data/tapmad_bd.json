@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:45 PM 10-10-2026",
+        "LastUpdate": "12:00 AM 11-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
-        "UpcomingCount": 84
+        "LiveCount": 7,
+        "UpcomingCount": 80
     },
     "Matches": [
         {
@@ -43,7 +43,8 @@
             "NewSportsGenre": "Mma",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live"
+            "UrlSlug": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 17095,
@@ -77,7 +78,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "lorient-vs-paris fc-ligue-one-live-match"
         },
         {
@@ -94,7 +95,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "monoca-vs-toulouse-ligue-one-live-match"
         },
         {
@@ -111,7 +112,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "brest-vs-angers-ligue-one-live-match"
         },
         {
@@ -128,7 +129,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "psg-vs-le mans-ligue-one-live-match"
         },
         {

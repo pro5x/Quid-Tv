@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 11-10-2026",
+        "LastUpdate": "12:15 AM 11-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 7,
-        "UpcomingCount": 80
+        "LiveCount": 8,
+        "UpcomingCount": 79
     },
     "Matches": [
         {
@@ -146,7 +146,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "laliga--real-madrid-vs-villarreal-live"
         },
         {

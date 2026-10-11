@@ -1,13 +1,13 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:45 PM 11-10-2026",
+        "LastUpdate": "12:00 AM 12-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
-        "UpcomingCount": 104
+        "LiveCount": 3,
+        "UpcomingCount": 103
     },
     "Matches": [
         {
@@ -60,7 +60,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "troyes-vs-marseille-ligue-one-live-match"
         },
         {

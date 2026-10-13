@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 PM 13-10-2026",
+        "LastUpdate": "05:15 PM 13-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "KYZDE9tEjjriV3j10xekr"
     },
     "Stats": {
         "LiveCount": 4,
-        "UpcomingCount": 98
+        "UpcomingCount": 100
     },
     "Matches": [
         {
@@ -1205,6 +1205,23 @@
             "UrlSlug": "ufc fight night-buckley vs malott-live"
         },
         {
+            "EntityId": 17701,
+            "VideoName": "South Africa vs Australia",
+            "CategoryName": "Australia Tour of South Africa 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-10-18 14:00:00",
+            "Description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791889900324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918899001020x576.jpg",
+            "IsFreeToWatch": false,
+            "CategoryId": 1038,
+            "regionsAllowed": "BD,NP",
+            "NewSportsGenre": "Cricket",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "australia-tour-of-south-africa-2026"
+        },
+        {
             "EntityId": 18280,
             "VideoName": "Osasuna vs Racing Santander",
             "CategoryName": "LaLiga 2026/27",
@@ -1747,6 +1764,23 @@
             "is_full_data": true,
             "Status": "Upcoming",
             "UrlSlug": "hoffenheim-vs-ol-uel-live-match"
+        },
+        {
+            "EntityId": 17702,
+            "VideoName": "South Africa vs Australia",
+            "CategoryName": "Australia Tour of South Africa 2026",
+            "StageName": "3rd Test",
+            "EventStartDate": "2026-10-27 14:30:00",
+            "Description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791890098324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg",
+            "IsFreeToWatch": false,
+            "CategoryId": 1038,
+            "regionsAllowed": "BD,NP",
+            "NewSportsGenre": "Cricket",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "australia-tour-of-south-africa-2026"
         }
     ]
 }

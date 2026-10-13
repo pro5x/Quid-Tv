@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 13-10-2026",
+        "LastUpdate": "02:45 PM 13-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "KYZDE9tEjjriV3j10xekr"
     },
     "Stats": {
         "LiveCount": 5,
-        "UpcomingCount": 85
+        "UpcomingCount": 87
     },
     "Matches": [
         {
@@ -80,7 +80,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "federation-cup-football-live"
+            "UrlSlug": "federation-cup-football-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
             "EntityId": 18261,
@@ -97,7 +98,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "federation-cup-football-live"
+            "UrlSlug": "federation-cup-football-live",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
             "EntityId": 18688,
@@ -967,6 +969,23 @@
             "UrlSlug": "marseille-vs-olympiacos-uel-live--match"
         },
         {
+            "EntityId": 18422,
+            "VideoName": "Le Mans vs Toulouse",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-10-17 00:45:00",
+            "Description": "Watch Le Mans vs Toulouse live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Mans vs Toulouse match will take place on 16-Oct, Friday, at 11:45 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791880974324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918809741020x576.jpg",
+            "IsFreeToWatch": false,
+            "CategoryId": 1115,
+            "regionsAllowed": "BD,NP",
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "le mans-vs-toulouse-ligue-one-live-match"
+        },
+        {
             "EntityId": 18275,
             "VideoName": "Deportivo vs Levante",
             "CategoryName": "LaLiga 2026/27",
@@ -1050,6 +1069,23 @@
             "is_full_data": true,
             "Status": "Upcoming",
             "UrlSlug": "laliga--villarreal-vs-elche-live"
+        },
+        {
+            "EntityId": 18423,
+            "VideoName": "Strasbourg vs PSG",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 7",
+            "EventStartDate": "2026-10-17 21:15:00",
+            "Description": "Watch Strasbourg vs PSG live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Strasbourg vs PSG match will take place on 17-Oct, Saturday, at 08:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791881112324x432.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918811121020x576.jpg",
+            "IsFreeToWatch": false,
+            "CategoryId": 1115,
+            "regionsAllowed": "BD,NP",
+            "NewSportsGenre": "Football",
+            "is_full_data": true,
+            "Status": "Upcoming",
+            "UrlSlug": "strasbourg-vs-psg-ligue-one-live-match"
         },
         {
             "EntityId": 18278,

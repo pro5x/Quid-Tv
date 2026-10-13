@@ -1,52 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:04 AM 14-10-2026",
+        "LastUpdate": "12:15 AM 14-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "KYZDE9tEjjriV3j10xekr"
     },
     "Stats": {
-        "LiveCount": 5,
-        "UpcomingCount": 99
+        "LiveCount": 10,
+        "UpcomingCount": 92
     },
     "Matches": [
-        {
-            "EntityId": 18463,
-            "VideoName": "Al Seeb Club (OMA) vs Al Hussein (JOR) Live",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-10-13 22:00:00",
-            "Description": "Watch Al Seeb Club vs Al Hussein live online on tapmad. The AFC Champions League Two Al Seeb Club vs Al Hussein match is scheduled to take place on 13-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791359645324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913596451020x576.jpg",
-            "IsFreeToWatch": false,
-            "CategoryId": 829,
-            "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Football",
-            "is_full_data": true,
-            "Status": "Live",
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "EntityId": 18683,
-            "VideoName": "Al Sadd SC (QAT) vs Al Hilal SFC (KSA) Live",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-10-13 22:00:00",
-            "Description": "Watch Al Sadd SC vs Al Hilal SFC live online on tapmad. The AFC Champions League Elite Al Sadd SC vs Al Hilal SFC match is scheduled to take place on 13-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791366374324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913663741020x576.jpg",
-            "IsFreeToWatch": false,
-            "CategoryId": 828,
-            "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Football",
-            "is_full_data": true,
-            "Status": "Live",
-            "UrlSlug": "afc-champions-league-elite-Al Sadd SC vs Al Hilal SFC",
-            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
         {
             "EntityId": 18341,
             "VideoName": "Lens vs Sporting CP",
@@ -98,7 +62,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "afc-champions-league-elite-Al Ittihad Club vs Shabab Al Ahli"
+            "UrlSlug": "afc-champions-league-elite-Al Ittihad Club vs Shabab Al Ahli",
+            "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
             "EntityId": 18343,
@@ -114,7 +79,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "galatasaray-vs-barcelona-ucl-live-match"
         },
         {
@@ -131,7 +96,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "rb leipzig-vs-psv eindhoven-ucl-live-match"
         },
         {
@@ -148,7 +113,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "arsenal-vs-lille-ucl-live-match"
         },
         {
@@ -165,7 +130,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "atletico madrid-vs-manchester united-ucl-live-match"
         },
         {
@@ -182,7 +147,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "villarreal-vs-napoli-ucl-live-match"
         },
         {
@@ -199,7 +164,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "viking-vs-bayern munchen-ucl-live-match"
         },
         {
@@ -216,7 +181,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "inter-vs-club brugge-ucl-live-match"
         },
         {

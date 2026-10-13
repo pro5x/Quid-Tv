@@ -1,52 +1,16 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:30 AM 14-10-2026",
+        "LastUpdate": "12:45 AM 14-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "KYZDE9tEjjriV3j10xekr"
     },
     "Stats": {
-        "LiveCount": 10,
+        "LiveCount": 8,
         "UpcomingCount": 92
     },
     "Matches": [
-        {
-            "EntityId": 18341,
-            "VideoName": "Lens vs Sporting CP",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-10-13 22:45:00",
-            "Description": "Watch Lens vs Sporting CP live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Sporting CP match will take place on 13-Oct, Tuesday, at 09:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791189230324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911892301020x576.jpg",
-            "IsFreeToWatch": false,
-            "CategoryId": 826,
-            "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Football",
-            "is_full_data": true,
-            "Status": "Live",
-            "UrlSlug": "lens-vs-sporting cp-ucl-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
-        },
-        {
-            "EntityId": 18342,
-            "VideoName": "Sabah vs Slavia Praha",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-10-13 22:45:00",
-            "Description": "Watch Sabah vs Slavia Praha live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Sabah vs Slavia Praha match will take place on 13-Oct, Tuesday, at 09:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1791189392324x432.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911893921020x576.jpg",
-            "IsFreeToWatch": false,
-            "CategoryId": 826,
-            "regionsAllowed": "BD,NP",
-            "NewSportsGenre": "Football",
-            "is_full_data": true,
-            "Status": "Live",
-            "UrlSlug": "sabah-vs-slavia praha-ucl-live-match",
-            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
-        },
         {
             "EntityId": 18688,
             "VideoName": "Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) Live",
@@ -80,7 +44,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "galatasaray-vs-barcelona-ucl-live-match"
+            "UrlSlug": "galatasaray-vs-barcelona-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 18344,
@@ -148,7 +113,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "villarreal-vs-napoli-ucl-live-match"
+            "UrlSlug": "villarreal-vs-napoli-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 18348,
@@ -165,7 +131,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "viking-vs-bayern munchen-ucl-live-match"
+            "UrlSlug": "viking-vs-bayern munchen-ucl-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
         },
         {
             "EntityId": 18349,

@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:15 PM 15-10-2026",
+        "LastUpdate": "10:30 PM 15-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "KYZDE9tEjjriV3j10xekr"
@@ -26,7 +26,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "rb-salzburg-vs-milan-uel-live-match"
+            "UrlSlug": "rb-salzburg-vs-milan-uel-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
             "EntityId": 18942,
@@ -43,7 +44,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "torreense-vs-sunderland-uel-live-match"
+            "UrlSlug": "torreense-vs-sunderland-uel-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "EntityId": 18943,
@@ -78,7 +80,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match"
+            "UrlSlug": "az-alkmaar-vs-h. beer-sheva-uel-live-match",
+            "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
         },
         {
             "EntityId": 18945,
@@ -95,7 +98,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "sparta-praha-vs-lillestrom-uel-live-match"
+            "UrlSlug": "sparta-praha-vs-lillestrom-uel-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "EntityId": 18946,
@@ -112,7 +116,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "ol-vs-palace-uel-live-match"
+            "UrlSlug": "ol-vs-palace-uel-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "EntityId": 18947,
@@ -129,7 +134,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "union-vs-real-sociedad-uel-live-match"
+            "UrlSlug": "union-vs-real-sociedad-uel-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8"
         },
         {
             "EntityId": 18948,

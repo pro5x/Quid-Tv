@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 AM 18-10-2026",
+        "LastUpdate": "05:15 AM 18-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
     },
     "Stats": {
-        "LiveCount": 0,
-        "UpcomingCount": 67
+        "LiveCount": 1,
+        "UpcomingCount": 66
     },
     "Matches": [
         {
@@ -25,8 +25,9 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Mma",
             "is_full_data": true,
-            "Status": "Upcoming",
-            "UrlSlug": "ufc fight night-buckley vs malott-live"
+            "Status": "Live",
+            "UrlSlug": "ufc fight night-buckley vs malott-live",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 17701,

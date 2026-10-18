@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 18-10-2026",
+        "LastUpdate": "01:30 PM 18-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -43,7 +43,8 @@
             "NewSportsGenre": "Cricket",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "pk-vs-sl-1st-odi-live"
+            "UrlSlug": "pk-vs-sl-1st-odi-live",
+            "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
         },
         {
             "EntityId": 18430,

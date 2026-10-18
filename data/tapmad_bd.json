@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 PM 18-10-2026",
+        "LastUpdate": "06:45 PM 18-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
@@ -98,7 +98,8 @@
             "NewSportsGenre": "Football",
             "is_full_data": true,
             "Status": "Live",
-            "UrlSlug": "angers-vs-marseille-ligue-one-live-match"
+            "UrlSlug": "angers-vs-marseille-ligue-one-live-match",
+            "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8"
         },
         {
             "EntityId": 18430,

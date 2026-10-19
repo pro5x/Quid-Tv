@@ -1,14 +1,14 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 20-10-2026",
+        "LastUpdate": "12:15 AM 20-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss",
         "BuildId": "Ztb9RnmuAonaSMdZD8Bou"
     },
     "Stats": {
-        "LiveCount": 2,
-        "UpcomingCount": 64
+        "LiveCount": 3,
+        "UpcomingCount": 63
     },
     "Matches": [
         {
@@ -66,7 +66,7 @@
             "regionsAllowed": "BD,NP",
             "NewSportsGenre": "Football",
             "is_full_data": true,
-            "Status": "Upcoming",
+            "Status": "Live",
             "UrlSlug": "laliga--getafe-vs-rayo-vallecano-live"
         },
         {

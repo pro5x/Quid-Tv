@@ -1,15 +1,66 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:00 AM 21-10-2026",
+        "LastUpdate": "12:19 AM 21-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 11,
         "UpcomingCount": 15
     },
     "Matches": [
+        {
+            "EntityId": 18361,
+            "VideoName": "Paris Saint-Germain vs Barcelona",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-21 01:00:00",
+            "Description": "Watch Paris Saint-Germain vs Barcelona live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Paris Saint-Germain vs Barcelona match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049907540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049907540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "paris saint-germain-vs-barcelona-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 18362,
+            "VideoName": "Manchester City vs AEK Athens",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-21 01:00:00",
+            "Description": "Watch Manchester City vs AEK Athens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Manchester City vs AEK Athens match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049697540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049697540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "manchester city-vs-aek athens-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 18366,
+            "VideoName": "Liverpool vs Villarreal",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-21 01:00:00",
+            "Description": "Watch Liverpool vs Villarreal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Liverpool vs Villarreal match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049555540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049555540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 826,
+            "UrlSlug": "liverpool-vs-villarreal-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
+            ]
+        },
         {
             "EntityId": 18359,
             "VideoName": "Sabah vs Borussia Dortmund",
@@ -23,7 +74,9 @@
             "Status": "Live",
             "CategoryId": 826,
             "UrlSlug": "sabah-vs-borussia dortmund-ucl-live-match",
-            "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+            ]
         },
         {
             "EntityId": 18360,
@@ -38,7 +91,9 @@
             "Status": "Live",
             "CategoryId": 826,
             "UrlSlug": "fenerbahce-vs-slavia praha-ucl-live-match",
-            "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+            ]
         },
         {
             "EntityId": 17102,
@@ -53,7 +108,9 @@
             "Status": "Live",
             "CategoryId": 799,
             "UrlSlug": "saudi-pro-league--al-ettifaq-vs-al-ittihad-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+            ]
         },
         {
             "EntityId": 17103,
@@ -68,35 +125,9 @@
             "Status": "Live",
             "CategoryId": 799,
             "UrlSlug": "saudi-pro-league--al-nassr-vs-neom-live",
-            "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
-        },
-        {
-            "EntityId": 18361,
-            "VideoName": "Paris Saint-Germain vs Barcelona",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-21 01:00:00",
-            "Description": "Watch Paris Saint-Germain vs Barcelona live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Paris Saint-Germain vs Barcelona match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049907540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049907540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "paris saint-germain-vs-barcelona-ucl-live-match"
-        },
-        {
-            "EntityId": 18362,
-            "VideoName": "Manchester City vs AEK Athens",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-21 01:00:00",
-            "Description": "Watch Manchester City vs AEK Athens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Manchester City vs AEK Athens match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049697540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049697540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "manchester city-vs-aek athens-ucl-live-match"
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
+            ]
         },
         {
             "EntityId": 18363,
@@ -108,9 +139,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792050058540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792050058540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 826,
-            "UrlSlug": "napoli-vs-bodo/glimt-ucl-live-match"
+            "UrlSlug": "napoli-vs-bodo/glimt-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
+            ]
         },
         {
             "EntityId": 18364,
@@ -122,9 +156,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049396540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049396540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 826,
-            "UrlSlug": "porto-vs-psv eindhoven-ucl-live-match"
+            "UrlSlug": "porto-vs-psv eindhoven-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
+            ]
         },
         {
             "EntityId": 18365,
@@ -136,23 +173,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792048598540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792048598540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 826,
-            "UrlSlug": "roma-vs-slovan bratislava-ucl-live-match"
-        },
-        {
-            "EntityId": 18366,
-            "VideoName": "Liverpool vs Villarreal",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-21 01:00:00",
-            "Description": "Watch Liverpool vs Villarreal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Liverpool vs Villarreal match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792049555540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792049555540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "liverpool-vs-villarreal-ucl-live-match"
+            "UrlSlug": "roma-vs-slovan bratislava-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
+            ]
         },
         {
             "EntityId": 18367,
@@ -164,9 +190,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792050193540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792050193540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 826,
-            "UrlSlug": "stuttgart-vs-atletico madrid-ucl-live-match"
+            "UrlSlug": "stuttgart-vs-atletico madrid-ucl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+            ]
         },
         {
             "EntityId": 17701,
@@ -279,6 +308,104 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "bayern munchen-vs-arsenal-ucl-live-match"
+        },
+        {
+            "EntityId": 18374,
+            "VideoName": "Aston Villa vs Viking",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-22 01:00:00",
+            "Description": "Watch Aston Villa vs Viking live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Aston Villa vs Viking match will take place on 22-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792050661540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792050661540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "aston villa-vs-viking-ucl-live-match"
+        },
+        {
+            "EntityId": 18375,
+            "VideoName": "Club Brugge vs Lens",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-22 01:00:00",
+            "Description": "Watch Club Brugge vs Lens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Club Brugge vs Lens match will take place on 22-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792050811540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792050811540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "club brugge-vs-lens-ucl-live-match"
+        },
+        {
+            "EntityId": 18376,
+            "VideoName": "Real Madrid vs RB Leipzig",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-22 01:00:00",
+            "Description": "Watch Real Madrid vs RB Leipzig live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Real Madrid vs RB Leipzig match will take place on 22-Oct, Thursday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792051225540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792051225540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "real madrid-vs-rb leipzig-ucl-live-match"
+        },
+        {
+            "EntityId": 19055,
+            "VideoName": "New Zealand vs India",
+            "CategoryName": "India Tour of New Zealand 2026",
+            "StageName": "1st T20I",
+            "EventStartDate": "2026-10-22 13:00:00",
+            "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 22-Oct-2026 at 12:00 PM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792153281540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792153281540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1214,
+            "UrlSlug": "nz-vs-ind-1st-t20i-live"
+        },
+        {
+            "EntityId": 18882,
+            "VideoName": "England vs Sri Lanka",
+            "CategoryName": "Pakistan ODI Tri-Series 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-10-22 14:00:00",
+            "Description": "Watch Pakistan ODI Tri-Series 2026 live on tapmad. The ENG vs SL brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 22-Oct-2026 at 01:00 PM . Fans can watch Pakistan ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792410866540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792410866540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1160,
+            "UrlSlug": "eng-vs-sl-3rd-odi-live"
+        },
+        {
+            "EntityId": 18959,
+            "VideoName": "Lech Poznan vs Sunderland",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-22 22:45:00",
+            "Description": "Watch Lech Poznan vs Sunderland live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791665194540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1791665194540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "lech-poznan-vs-sunderland-uel-live-match"
+        },
+        {
+            "EntityId": 18960,
+            "VideoName": "OFI vs Leverkusen",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-22 22:45:00",
+            "Description": "Watch OFI vs Leverkusen live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Champions League winners. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791665444540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1791665444540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "ofi-vs-leverkusen-uel-live-match"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:08 PM 22-10-2026",
+        "LastUpdate": "11:15 PM 22-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -145,20 +145,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 17107,
-            "VideoName": "Al-Ahli vs Al-Khaleej",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-10-23 00:00:00",
-            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ahli vs Al-Khaleej live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792650415540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792650415540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--al-ahli-vs-al-khaleej-live"
         },
         {
             "EntityId": 18976,
@@ -355,6 +341,20 @@
             "Status": "Upcoming",
             "CategoryId": 799,
             "UrlSlug": "saudi-pro-league--al-ittihad-vs-diriyah-live"
+        },
+        {
+            "EntityId": 17110,
+            "VideoName": "Al Qadsiah vs Al-Hilal",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 11",
+            "EventStartDate": "2026-10-24 00:00:00",
+            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al Qadsiah vs Al-Hilal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792650726540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792650726540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-qadsiah-vs-al-hilal-live"
         }
     ]
 }

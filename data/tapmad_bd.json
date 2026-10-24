@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:45 AM 25-10-2026",
+        "LastUpdate": "03:00 AM 25-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -26,23 +26,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
                 "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18433,
-            "VideoName": "Lens vs Paris FC",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 8",
-            "EventStartDate": "2026-10-25 00:45:00",
-            "Description": "Watch Lens vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lens vs Paris FC match will take place on 25-Oct, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792391037540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792391037540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1115,
-            "UrlSlug": "lens-vs-paris fc-ligue-one-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
             ]
         },
         {

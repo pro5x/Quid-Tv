@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:00 PM 27-10-2026",
+        "LastUpdate": "06:15 PM 27-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -47,74 +47,6 @@
             ]
         },
         {
-            "EntityId": 18763,
-            "VideoName": "Johor Darul Ta'zim FC (MAS) vs Port FC (THA)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-27 16:00:00",
-            "Description": "Watch Johor Darul Ta'zim FC vs Port FC live online on tapmad. The AFC Champions League Elite Johor Darul Ta'zim FC vs Port FC match is scheduled to take place on 27-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792567168540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792567168540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Johor Darul Ta'zim FC vs Port FC",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18758,
-            "VideoName": "Daejeon Hana Citizen (KOR) vs Vissel Kobe (JPN)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-27 16:00:00",
-            "Description": "Watch Daejeon Hana Citizen vs Vissel Kobe live online on tapmad. The AFC Champions League Elite Daejeon Hana Citizen vs Vissel Kobe match is scheduled to take place on 27-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792566860540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792566860540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Daejeon Hana Citizen vs Vissel Kobe",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18753,
-            "VideoName": "Shanghai Port FC (CHN) vs Cong An Hai Noi FC (VIE)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-27 16:00:00",
-            "Description": "Watch Shanghai Port FC vs Cong An Hai Noi FC live online on tapmad. The AFC Champions League Elite Shanghai Port FC vs Cong An Hai Noi FC match is scheduled to take place on 27-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792566572540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792566572540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Shanghai Port FC vs Cong An Hai Noi FC",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18748,
-            "VideoName": "Kyoto Sanga FC (IRN) vs Newcastle Jets FC (AUS)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-27 16:00:00",
-            "Description": "Watch Kyoto Sanga FC vs Newcastle Jets FC live online on tapmad. The AFC Champions League Elite Kyoto Sanga FC vs Newcastle Jets FC match is scheduled to take place on 27-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792565161540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792565161540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Kyoto Sanga FC vs Newcastle Jets FC",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-            ]
-        },
-        {
             "EntityId": 18783,
             "VideoName": "Beijing FC (CHN) vs Jeonbuk Hyundai Motors FC (KOR)",
             "CategoryName": "AFC Champions League Elite 2026/27",
@@ -124,9 +56,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792567809540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792567809540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Beijing FC vs Jeonbuk Hyundai Motors FC"
+            "UrlSlug": "afc-champions-league-elite-Beijing FC vs Jeonbuk Hyundai Motors FC",
+            "stream_url": [
+                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            ]
         },
         {
             "EntityId": 18778,
@@ -138,9 +73,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792567474540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792567474540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Ratchaburi FC vs Kashiwa Reysol"
+            "UrlSlug": "afc-champions-league-elite-Ratchaburi FC vs Kashiwa Reysol",
+            "stream_url": [
+                "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            ]
         },
         {
             "EntityId": 19111,
@@ -319,6 +257,34 @@
             "Description": "Watch Al Nahda Club vs Al Rayyan SC live online on tapmad. The AFC Champions League Two Al Nahda Club vs Al Rayyan SC match is scheduled to take place on 28-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792659286540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792659286540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 18563,
+            "VideoName": "Al Jazira Club (UAE) vs Al Muharraq SC (BHR)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-28 22:00:00",
+            "Description": "Watch Al Jazira Club vs Al Muharraq SC live online on tapmad. The AFC Champions League Two Al Jazira Club vs Al Muharraq SC match is scheduled to take place on 28-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792658973540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792658973540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 18578,
+            "VideoName": "Al Khaldiya SC (BHR) vs Al Wahda FC (UAE)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-29 00:15:00",
+            "Description": "Watch Al Khaldiya SC vs Al Wahda FC live online on tapmad. The AFC Champions League Two Al Khaldiya SC vs Al Wahda FC match is scheduled to take place on 29-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792736478540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792736479540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 829,

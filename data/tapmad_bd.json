@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "08:00 PM 27-10-2026",
+        "LastUpdate": "08:15 PM 27-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -72,9 +72,13 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792753999540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792753999540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1245,
-            "UrlSlug": "afg-vs-zim-1st-t20i-live"
+            "UrlSlug": "afg-vs-zim-1st-t20i-live",
+            "stream_url": [
+                "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            ]
         },
         {
             "EntityId": 18788,
@@ -267,6 +271,20 @@
             "Description": "Watch Al Khaldiya SC vs Al Wahda FC live online on tapmad. The AFC Champions League Two Al Khaldiya SC vs Al Wahda FC match is scheduled to take place on 29-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792736478540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792736479540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 18573,
+            "VideoName": "Al Faisaly (JOR) vs Al Taawoun FC (KSA)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-29 00:15:00",
+            "Description": "Watch Al Faisaly vs Al Taawoun FC live online on tapmad. The AFC Champions League Two Al Faisaly vs Al Taawoun FC match is scheduled to take place on 29-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792659586540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792659586540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 829,

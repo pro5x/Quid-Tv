@@ -1,49 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:00 AM 28-10-2026",
+        "LastUpdate": "03:15 AM 28-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 0,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 18793,
-            "VideoName": "Al Shamal SC (QAT) vs Al-Hilal SFC (KSA)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 00:15:00",
-            "Description": "Watch Al Shamal SC vs Al-Hilal SFC live online on tapmad. The AFC Champions League Elite Al Shamal SC vs Al-Hilal SFC match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792568540540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792568540540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Al Shamal SC vs Al-Hilal SFC",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18543,
-            "VideoName": "Al Shorta (IRQ) vs Al Hussein (JOR)",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 00:15:00",
-            "Description": "Watch Al Shorta vs Al Hussein live online on tapmad. The AFC Champions League Two Al Shorta vs Al Hussein match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792654940540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792654941540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-            ]
-        },
         {
             "EntityId": 19120,
             "VideoName": "Bangladesh vs West Indies",

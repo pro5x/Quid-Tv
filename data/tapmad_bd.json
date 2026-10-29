@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 29-10-2026",
+        "LastUpdate": "01:30 PM 29-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -25,6 +25,24 @@
             "UrlSlug": "ban-vs-wi-1st-test-live",
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 18885,
+            "VideoName": "England vs Sri Lanka",
+            "CategoryName": "Pakistan ODI Tri-Series 2026",
+            "StageName": "6th ODI",
+            "EventStartDate": "2026-10-29 14:00:00",
+            "Description": "Watch Pakistan ODI Tri-Series 2027 live on tapmad. The ENG vs SL brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 6th ODI is scheduled to be played on 29-Oct-2026 at 01:00 PM . Fans can watch Pakistan ODI Tri-Series 2027live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792578023540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792578023540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1160,
+            "UrlSlug": "eng-vs-sl-6th-odi-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
             ]
         },
         {
@@ -54,37 +72,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792739873540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792739874540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
-        },
-        {
-            "EntityId": 18885,
-            "VideoName": "England vs Sri Lanka",
-            "CategoryName": "Pakistan ODI Tri-Series 2026",
-            "StageName": "6th ODI",
-            "EventStartDate": "2026-10-29 14:00:00",
-            "Description": "Watch Pakistan ODI Tri-Series 2027 live on tapmad. The ENG vs SL brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 6th ODI is scheduled to be played on 29-Oct-2026 at 01:00 PM . Fans can watch Pakistan ODI Tri-Series 2027live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792578023540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792578023540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1160,
-            "UrlSlug": "eng-vs-sl-6th-odi-live"
-        },
-        {
-            "EntityId": 19179,
-            "VideoName": "Melbourne Stars vs Hobart Hurricanes",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-10-29 14:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The STA vs HH brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd T20I is scheduled to be played on 29-Oct-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793007405540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793007405540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "sta-vs-hh-2nd-t20i-live"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8"
+            ]
         },
         {
             "EntityId": 17702,
@@ -253,6 +246,48 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "losc-vs-lens-ligue-one-live-match"
+        },
+        {
+            "EntityId": 19181,
+            "VideoName": "Adelaide Strikers vs Melbourne Stars",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-10-31 10:40:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th T20I is scheduled to be played on 31-Oct-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793088183540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793088183540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1247,
+            "UrlSlug": "ads-vs-sta-4th-t20i-live"
+        },
+        {
+            "EntityId": 19182,
+            "VideoName": "Perth Scorchers vs Melbourne Renegades",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-10-31 14:10:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The PER vs MR brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th T20I is scheduled to be played on 31-Oct-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793088343540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793088343540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1247,
+            "UrlSlug": "per-vs-mr-5th-t20i-live"
+        },
+        {
+            "EntityId": 18445,
+            "VideoName": "Troyes vs Le Mans",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 9",
+            "EventStartDate": "2026-11-01 01:45:00",
+            "Description": "Watch Troyes vs Le Mans live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Troyes vs Le Mans match will take place on 01-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793168592540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793168592540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "troyes-vs-le mans-ligue-one-live-match"
         }
     ]
 }

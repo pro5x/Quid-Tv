@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:45 PM 31-10-2026",
+        "LastUpdate": "11:00 PM 31-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -44,20 +44,6 @@
             "stream_url": [
                 "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19450,
-            "VideoName": "Betis vs Malaga",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-10-31 23:30:00",
-            "Description": "The 91st match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Malaga live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793344933540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793344933540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--betis-vs-malaga-live"
         },
         {
             "EntityId": 17111,
@@ -254,6 +240,20 @@
             "Status": "Upcoming",
             "CategoryId": 368,
             "UrlSlug": "longines-fei-jumping-world-cup-2026"
+        },
+        {
+            "EntityId": 19249,
+            "VideoName": "Melbourne City FC (AUS) vs PFC Nasaf (UZB)",
+            "CategoryName": "AFC Women's Champions League 2026/27",
+            "StageName": "MATCHDAY 1",
+            "EventStartDate": "2026-11-01 20:30:00",
+            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793095638540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793095638540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 953,
+            "UrlSlug": "AFC Women's Champions League-Melbourne City FC (AUS)-vs-PFC Nasaf (UZB)"
         }
     ]
 }

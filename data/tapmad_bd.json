@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 01-11-2026",
+        "LastUpdate": "02:45 PM 01-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 5,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -46,23 +46,6 @@
             ]
         },
         {
-            "EntityId": 19183,
-            "VideoName": "Sydney Thunder vs Brisbane Heat",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-01 10:40:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 6th T20I is scheduled to be played on 01-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793489150540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793489150540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1247,
-            "UrlSlug": "sct-vs-brh-6th-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-            ]
-        },
-        {
             "EntityId": 19184,
             "VideoName": "Sydney Sixers vs Hobart Hurricanes",
             "CategoryName": "Women's Big Bash League 2026",
@@ -89,9 +72,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093984540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093984540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Hwacheon KSPO WFC (KOR)-vs-4.25 Sports Club (PRK)"
+            "UrlSlug": "AFC Women's Champions League-Hwacheon KSPO WFC (KOR)-vs-4.25 Sports Club (PRK)",
+            "stream_url": [
+                "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            ]
         },
         {
             "EntityId": 19224,
@@ -103,9 +89,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093650540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093650540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)"
+            "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)",
+            "stream_url": [
+                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            ]
         },
         {
             "EntityId": 19234,
@@ -288,6 +277,34 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "marseille-vs-toulouse-ligue-one-live-match"
+        },
+        {
+            "EntityId": 18444,
+            "VideoName": "Lorient vs Brest",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 9",
+            "EventStartDate": "2026-11-03 01:45:00",
+            "Description": "Watch Lorient vs Brest live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Brest match will take place on 03-Nov, Tuesday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169167540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169167540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "lorient-vs-brest-ligue-one-live-match"
+        },
+        {
+            "EntityId": 19375,
+            "VideoName": "Shakhtar Donetsk vs Sporting CP",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-11-03 23:45:00",
+            "Description": "Watch Shakhtar Donetsk vs Sporting CP live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Shakhtar Donetsk vs Sporting CP match will take place on 03-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793254746540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793254746540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "shakhtar donetsk-vs-sporting cp-ucl-live-match"
         }
     ]
 }

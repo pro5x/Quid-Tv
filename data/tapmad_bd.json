@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 04-11-2026",
+        "LastUpdate": "02:15 PM 04-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 5,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -55,9 +55,60 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793774282540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793774282540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1247,
-            "UrlSlug": "hh-vs-mr-9th-t20i-live"
+            "UrlSlug": "hh-vs-mr-9th-t20i-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 19259,
+            "VideoName": "4.25 Sports Club (PRK) vs Ho Chi Minh City Women's FC (VIE)",
+            "CategoryName": "AFC Women's Champions League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-11-04 14:30:00",
+            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793778912540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793778912540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 953,
+            "UrlSlug": "AFC Women's Champions League-4.25 Sports Club (PRK)-vs-Ho Chi Minh City Women's FC (VIE)",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 19254,
+            "VideoName": "Bam Khatoon FC (IRN) vs Naegohyang Women's FC (PRK)",
+            "CategoryName": "AFC Women's Champions League 2026/27",
+            "StageName": "MATCHDAY 2",
+            "EventStartDate": "2026-11-04 14:30:00",
+            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793778268540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793778268540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 953,
+            "UrlSlug": "AFC Women's Champions League-Bam Khatoon FC (IRN)-vs-Naegohyang Women's FC (PRK)",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 19718,
+            "VideoName": "FC Pohang Steelers (KOR) vs Gamba Osaka (JPN)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-04 16:00:00",
+            "Description": "Watch FC Pohang Steelers vs Gamba Osaka live online on tapmad. The AFC Champions League Elite FC Pohang Steelers vs Gamba Osaka match is scheduled to take place on 04-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793776723540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793776723540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-FC Pohang Steelers vs Gamba Osaka"
         },
         {
             "EntityId": 19503,
@@ -72,6 +123,20 @@
             "Status": "Upcoming",
             "CategoryId": 829,
             "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 19723,
+            "VideoName": "Buriram United (THA) vs Kashima Antlers (JPN)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-04 18:15:00",
+            "Description": "Watch Buriram United vs Kashima Antlers live online on tapmad. The AFC Champions League Elite Buriram United vs Kashima Antlers match is scheduled to take place on 04-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793777003540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793777003540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Buriram United vs Kashima Antlers"
         },
         {
             "EntityId": 19508,
@@ -240,20 +305,6 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "lens-vs-como-ucl-live-match"
-        },
-        {
-            "EntityId": 19389,
-            "VideoName": "RB Leipzig vs Manchester City",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-11-05 02:00:00",
-            "Description": "Watch RB Leipzig vs Manchester City live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The RB Leipzig vs Manchester City match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793257028540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793257028540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "rb leipzig-vs-manchester city-ucl-live-match"
         }
     ]
 }

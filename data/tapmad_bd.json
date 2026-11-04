@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:00 PM 04-11-2026",
+        "LastUpdate": "05:15 PM 04-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 6,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -25,40 +25,6 @@
             "UrlSlug": "hh-vs-mr-9th-t20i-live",
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19259,
-            "VideoName": "4.25 Sports Club (PRK) vs Ho Chi Minh City Women's FC (VIE)",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-11-04 14:30:00",
-            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793778912540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793778912540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-4.25 Sports Club (PRK)-vs-Ho Chi Minh City Women's FC (VIE)",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19254,
-            "VideoName": "Bam Khatoon FC (IRN) vs Naegohyang Women's FC (PRK)",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "MATCHDAY 2",
-            "EventStartDate": "2026-11-04 14:30:00",
-            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793778268540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793778268540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Bam Khatoon FC (IRN)-vs-Naegohyang Women's FC (PRK)",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
             ]
         },
         {

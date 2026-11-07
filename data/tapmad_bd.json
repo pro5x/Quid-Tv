@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:00 AM 07-11-2026",
+        "LastUpdate": "11:15 AM 07-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -62,20 +62,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19114,
-            "VideoName": "Afghanistan vs Zimbabwe",
-            "CategoryName": "Afghanistan vs Zimbabwe 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-11-07 12:00:00",
-            "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1245,
-            "UrlSlug": "afg-vs-zim-1st-test-live"
         },
         {
             "EntityId": 19191,
@@ -272,6 +258,20 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "auxerre-vs-paris fc-ligue-one-live-match"
+        },
+        {
+            "EntityId": 20117,
+            "VideoName": "Peterborough United vs Reading",
+            "CategoryName": "FA Cup 2026/27",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-11-08 02:00:00",
+            "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971256540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971256540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1329,
+            "UrlSlug": "peterborough united-vs-reading-facup-live-match"
         }
     ]
 }

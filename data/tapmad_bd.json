@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:15 AM 09-11-2026",
+        "LastUpdate": "10:30 AM 09-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -37,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793858264540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793858264540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1148,
-            "UrlSlug": "pak-vs-sri-1st-test-live"
+            "UrlSlug": "pak-vs-sri-1st-test-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
         },
         {
             "EntityId": 19114,
@@ -236,6 +239,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "italy-vs-france-unl-live-match"
+        },
+        {
+            "EntityId": 19063,
+            "VideoName": "New Zealand vs India",
+            "CategoryName": "India Tour of New Zealand 2026",
+            "StageName": "4th ODI",
+            "EventStartDate": "2026-11-13 08:00:00",
+            "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th ODI is scheduled to be played on 13-Nov-2026 at 07:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786825540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793786826540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1214,
+            "UrlSlug": "nz-vs-ind-4th-odi-live"
         }
     ]
 }

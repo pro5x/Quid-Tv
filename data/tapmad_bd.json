@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:45 PM 10-11-2026",
+        "LastUpdate": "05:00 PM 10-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -242,18 +242,18 @@
             "UrlSlug": "afg-vs-zim-2nd-test-live"
         },
         {
-            "EntityId": 20063,
-            "VideoName": "Moldova vs Kazakhstan",
-            "CategoryName": "UEFA Nations League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-13 23:00:00",
-            "Description": "Watch Moldova vs Kazakhstan live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Moldova vs Kazakhstan match will take place on 13-Nov, Friday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794290030540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794290030540x302.jpg",
+            "EntityId": 20161,
+            "VideoName": "Round  6 - Group Stages",
+            "CategoryName": "E1 Series 2026",
+            "StageName": "Session 3",
+            "EventStartDate": "2026-11-13 20:00:00",
+            "Description": "Watch E1 Florida Miami 2026 Live online on tapmad in HD and ad-free. Follow all the Formula E1 2026 action on your mobile, laptop, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794304454540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794304454540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 1120,
-            "UrlSlug": "moldova-vs-kazakhstan-unl-live-match"
+            "CategoryId": 269,
+            "UrlSlug": "e1-florida-miami-2026"
         }
     ]
 }

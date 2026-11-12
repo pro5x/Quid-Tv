@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 12-11-2026",
+        "LastUpdate": "01:30 PM 12-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -61,20 +61,6 @@
             "stream_url": [
                 "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19197,
-            "VideoName": "Melbourne Renegades vs Sydney Sixers",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-12 14:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The MLR vs SYS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 20th T20I is scheduled to be played on 12-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794405027540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794405027540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "mlr-vs-sys-20th-t20i-live"
         },
         {
             "EntityId": 20151,
@@ -267,6 +253,20 @@
             "Description": "Watch E1 Florida Miami 2026 Live online on tapmad in HD and ad-free. Follow all the Formula E1 2026 action on your mobile, laptop, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794304454540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794304454540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 269,
+            "UrlSlug": "e1-florida-miami-2026"
+        },
+        {
+            "EntityId": 20166,
+            "VideoName": "Round 6 - Race Off",
+            "CategoryName": "E1 Series 2026",
+            "StageName": "Session 4",
+            "EventStartDate": "2026-11-13 22:30:00",
+            "Description": "Watch E1 Florida Miami 2026 Live online on tapmad in HD and ad-free. Follow all the Formula E1 2026 action on your mobile, laptop, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794304773540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794304773540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 269,

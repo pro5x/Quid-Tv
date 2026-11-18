@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 PM 18-11-2026",
+        "LastUpdate": "01:00 PM 18-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -74,6 +74,20 @@
             "UrlSlug": "hh-vs-per-26th-t20i-live"
         },
         {
+            "EntityId": 20272,
+            "VideoName": "FIA FR World Cup - Qualifying 1",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Qualifying 1",
+            "EventStartDate": "2026-11-19 14:00:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794982906540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794982906540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
+        },
+        {
             "EntityId": 19204,
             "VideoName": "Brisbane Heat vs Sydney Thunder",
             "CategoryName": "Women's Big Bash League 2026",
@@ -114,6 +128,34 @@
             "Status": "Upcoming",
             "CategoryId": 427,
             "UrlSlug": "qualifying-race---macau,-china"
+        },
+        {
+            "EntityId": 20278,
+            "VideoName": "FIA F4 World Cup - Qualifying",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Qualifying Race",
+            "EventStartDate": "2026-11-20 11:40:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794983311540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794983311540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
+        },
+        {
+            "EntityId": 20284,
+            "VideoName": "FIA FR World Cup - Qualifying 2",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Qualifying 2",
+            "EventStartDate": "2026-11-20 12:40:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794983924540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794983924540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
         },
         {
             "EntityId": 19205,
@@ -212,48 +254,6 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "nice-vs-psg-ligue-one-live-match"
-        },
-        {
-            "EntityId": 19318,
-            "VideoName": "Prochazka vs Stirling",
-            "CategoryName": "UFC 2026",
-            "StageName": "Fight Night",
-            "EventStartDate": "2026-11-22 00:00:00",
-            "Description": "UFC Fight Night Live: Watch Prochazka vs Stirling live online on tapmad. Enjoy watching Prochazka vs Stirling live streaming online in Pakistan with full match highlights. The fight will start at 11:00 PM on 21-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794811799540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794811799540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 265,
-            "UrlSlug": "ufc fight night-prochazka vs stirling-live"
-        },
-        {
-            "EntityId": 19973,
-            "VideoName": "Monaco vs Auxerre",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-11-22 01:45:00",
-            "Description": "Watch Monaco vs Auxerre live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Monaco vs Auxerre match will take place on 22-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902560540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902560540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "monaco-vs-auxerre-ligue-one-live-match"
-        },
-        {
-            "EntityId": 19972,
-            "VideoName": "Lens vs Toulouse",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-11-22 01:45:00",
-            "Description": "Watch Lens vs Toulouse live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lens vs Toulouse match will take place on 22-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902084540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902084540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "lens-vs-toulouse-ligue-one-live-match"
         }
     ]
 }

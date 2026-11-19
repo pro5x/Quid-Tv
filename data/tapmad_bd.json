@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 19-11-2026",
+        "LastUpdate": "02:15 PM 19-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -26,23 +26,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
                 "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19203,
-            "VideoName": "Hobart Hurricanes vs Perth Scorchers",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-19 10:40:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs PER brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 26th T20I is scheduled to be played on 19-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794812185540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794812185540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1247,
-            "UrlSlug": "hh-vs-per-26th-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
             ]
         },
         {
@@ -72,9 +55,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794831038540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794831038540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1247,
-            "UrlSlug": "brh-vs-sct-27th-t20i-live"
+            "UrlSlug": "brh-vs-sct-27th-t20i-live",
+            "stream_url": [
+                "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            ]
         },
         {
             "EntityId": 20238,
@@ -267,6 +253,20 @@
             "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794991578540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794991578540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
+        },
+        {
+            "EntityId": 20314,
+            "VideoName": "FIA FR World Cup - Day 1",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-11-21 14:15:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794991967540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794991967540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 1361,

@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 19-11-2026",
+        "LastUpdate": "01:15 PM 19-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -44,20 +44,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 20272,
-            "VideoName": "FIA FR World Cup - Qualifying 1",
-            "CategoryName": "Macau Grand Prix 2026",
-            "StageName": "Qualifying 1",
-            "EventStartDate": "2026-11-19 14:00:00",
-            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794982906540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794982906540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1361,
-            "UrlSlug": "macau-grand-prix-2026"
         },
         {
             "EntityId": 19204,
@@ -254,6 +240,20 @@
             "Status": "Upcoming",
             "CategoryId": 427,
             "UrlSlug": "round-19---race-1"
+        },
+        {
+            "EntityId": 20308,
+            "VideoName": "FIA GT World Cup - Day 1",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-11-21 12:35:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794991578540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794991578540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
         }
     ]
 }

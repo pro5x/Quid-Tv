@@ -1,32 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "11:30 PM 21-11-2026",
+        "LastUpdate": "11:45 PM 21-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 20242,
-            "VideoName": "Rayo Vallecano vs Valencia",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 13",
-            "EventStartDate": "2026-11-21 21:15:00",
-            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Rayo Vallecano vs Valencia live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172250540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172250540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--rayo-vallecano-vs-valencia-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
-            ]
-        },
         {
             "EntityId": 19969,
             "VideoName": "Nice vs PSG",
@@ -45,6 +28,23 @@
             ]
         },
         {
+            "EntityId": 20243,
+            "VideoName": "Sevilla vs Betis",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 13",
+            "EventStartDate": "2026-11-21 23:30:00",
+            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Sevilla vs Betis live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172317540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172317540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--sevilla-vs-betis-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+            ]
+        },
+        {
             "EntityId": 19318,
             "VideoName": "Prochazka vs Stirling",
             "CategoryName": "UFC 2026",
@@ -54,9 +54,13 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794811799540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794811799540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 265,
-            "UrlSlug": "ufc fight night-prochazka vs stirling-live"
+            "UrlSlug": "ufc fight night-prochazka vs stirling-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+            ]
         },
         {
             "EntityId": 19973,
@@ -253,6 +257,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--barcelona-vs-villarreal-live"
+        },
+        {
+            "EntityId": 19974,
+            "VideoName": "Paris FC vs Angers",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 11",
+            "EventStartDate": "2026-11-22 20:00:00",
+            "Description": "Watch Paris FC vs Angers live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Paris FC vs Angers match will take place on 22-Nov, Sunday, at 07:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902702540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902702540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "paris fc-vs-angers-ligue-one-live-match"
         }
     ]
 }

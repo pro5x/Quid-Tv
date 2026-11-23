@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:15 AM 24-11-2026",
+        "LastUpdate": "02:30 AM 24-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -25,23 +25,6 @@
             "UrlSlug": "afc-champions-league-elite-Air Force SC vs Al-Gharafa SC",
             "stream_url": [
                 "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19748,
-            "VideoName": "Al Ittihad Club (KSA) vs Pakhtakor (UZB)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-24 00:15:00",
-            "Description": "Watch Al Ittihad Club vs Pakhtakor live online on tapmad. The AFC Champions League Elite Al Ittihad Club vs Pakhtakor match is scheduled to take place on 24-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795160574540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795160575540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Al Ittihad Club vs Pakhtakor",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
             ]
         },
         {

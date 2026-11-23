@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "09:00 PM 23-11-2026",
+        "LastUpdate": "09:15 PM 23-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -26,48 +26,6 @@
             "stream_url": [
                 "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19743,
-            "VideoName": "Al Shamal SC (QAT) vs Al Ahli Saudi FC (KSA)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-23 22:00:00",
-            "Description": "Watch Al Shamal SC vs Al Ahli Saudi FC live online on tapmad. The AFC Champions League Elite Al Shamal SC vs Al Ahli Saudi FC match is scheduled to take place on 23-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795075626540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795075626540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Al Shamal SC vs Al Ahli Saudi FC"
-        },
-        {
-            "EntityId": 19738,
-            "VideoName": "Tractor FC (IRN) vs Al Wasl FC (UAE)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-23 22:00:00",
-            "Description": "Watch Tractor FC vs Al Wasl FC live online on tapmad. The AFC Champions League Elite Tractor FC vs Al Wasl FC match is scheduled to take place on 23-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795075101540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795075101540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Tractor FC vs Al Wasl FC"
-        },
-        {
-            "EntityId": 19733,
-            "VideoName": "Al Ain FC (UAE) vs Esteghlal FC (IRN)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-23 22:00:00",
-            "Description": "Watch Al Ain FC vs Esteghlal FC live online on tapmad. The AFC Champions League Elite Al Ain FC vs Esteghlal FC match is scheduled to take place on 23-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795077200540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795077200540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Al Ain FC vs Esteghlal FC"
         },
         {
             "EntityId": 19753,
@@ -236,6 +194,48 @@
             "Status": "Upcoming",
             "CategoryId": 828,
             "UrlSlug": "afc-champions-league-elite-Shabab Al Ahli vs Al Qadsiah Club"
+        },
+        {
+            "EntityId": 19573,
+            "VideoName": "Al Seeb Club (OMA) vs Al Shorta (IRQ)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 22:00:00",
+            "Description": "Watch Al Seeb Club vs Al Shorta live online on tapmad. The AFC Champions League Two Al Seeb Club vs Al Shorta match is scheduled to take place on 24-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795160140540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795160140540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 19394,
+            "VideoName": "Galatasaray vs Aston Villa",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 23:45:00",
+            "Description": "Watch Galatasaray vs Aston Villa live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Galatasaray vs Aston Villa match will take place on 24-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795425504540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795425504540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "galatasaray-vs-aston villa-ucl-live-match"
+        },
+        {
+            "EntityId": 19393,
+            "VideoName": "Bodo/Glimt vs LASK",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 23:45:00",
+            "Description": "Watch Bodo/Glimt vs LASK live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bodo/Glimt vs LASK match will take place on 24-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795425356540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795425356540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "bodo/glimt-vs-lask-ucl-live-match"
         }
     ]
 }

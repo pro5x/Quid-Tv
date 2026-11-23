@@ -1,32 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:15 AM 24-11-2026",
+        "LastUpdate": "03:30 AM 24-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19753,
-            "VideoName": "Air Force SC (IRQ) vs Al-Gharafa SC (QAT)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-24 00:15:00",
-            "Description": "Watch Air Force SC vs Al-Gharafa SC live online on tapmad. The AFC Champions League Elite Air Force SC vs Al-Gharafa SC match is scheduled to take place on 24-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795080084540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795080084540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Air Force SC vs Al-Gharafa SC",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-            ]
-        },
         {
             "EntityId": 20248,
             "VideoName": "Levante vs Elche",

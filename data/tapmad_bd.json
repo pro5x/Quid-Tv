@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:15 PM 24-11-2026",
+        "LastUpdate": "03:30 PM 24-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -95,34 +95,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19768,
-            "VideoName": "Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-24 16:00:00",
-            "Description": "Watch Kyoto Sanga F.C. vs FC Pohang Steelers live online on tapmad. The AFC Champions League Elite Kyoto Sanga F.C. vs FC Pohang Steelers match is scheduled to take place on 24-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795165240540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795165240540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Kyoto Sanga F.C. vs FC Pohang Steelers"
-        },
-        {
-            "EntityId": 19763,
-            "VideoName": "Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-24 16:00:00",
-            "Description": "Watch Daejeon Hana Citizen FC vs Beijing FC live online on tapmad. The AFC Champions League Elite Daejeon Hana Citizen FC vs Beijing FC match is scheduled to take place on 24-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795164518540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795164518540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Daejeon Hana Citizen FC vs Beijing FC"
         },
         {
             "EntityId": 19783,
@@ -305,6 +277,34 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "manchester city-vs-napoli-ucl-live-match"
+        },
+        {
+            "EntityId": 19397,
+            "VideoName": "Feyenoord vs Porto",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-25 02:00:00",
+            "Description": "Watch Feyenoord vs Porto live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Feyenoord vs Porto match will take place on 25-Nov, Wednesday, at 02:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795503574540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795503574540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "feyenoord-vs-porto-ucl-live-match"
+        },
+        {
+            "EntityId": 19396,
+            "VideoName": "Como vs AEK Athens",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-25 02:00:00",
+            "Description": "Watch Como vs AEK Athens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Como vs AEK Athens match will take place on 25-Nov, Wednesday, at 02:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795503442540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795503442540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "como-vs-aek athens-ucl-live-match"
         }
     ]
 }

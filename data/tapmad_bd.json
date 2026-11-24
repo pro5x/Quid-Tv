@@ -1,29 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 24-11-2026",
+        "LastUpdate": "01:30 PM 24-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19758,
-            "VideoName": "Newcastle Jets FC (AUS) vs Kashiwa Reysol (JPN)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-24 13:45:00",
-            "Description": "Watch Newcastle Jets FC vs Kashiwa Reysol live online on tapmad. The AFC Champions League Elite Newcastle Jets FC vs Kashiwa Reysol match is scheduled to take place on 24-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795161741540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795161741540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Kashiwa Reysol"
-        },
         {
             "EntityId": 20135,
             "VideoName": "Australia vs England",
@@ -34,9 +20,72 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813008540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794813008540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1327,
-            "UrlSlug": "aus-vs-eng-2nd-t20i-live"
+            "UrlSlug": "aus-vs-eng-2nd-t20i-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+            ]
+        },
+        {
+            "EntityId": 19758,
+            "VideoName": "Newcastle Jets FC (AUS) vs Kashiwa Reysol (JPN)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 13:45:00",
+            "Description": "Watch Newcastle Jets FC vs Kashiwa Reysol live online on tapmad. The AFC Champions League Elite Newcastle Jets FC vs Kashiwa Reysol match is scheduled to take place on 24-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795161741540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795161741540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Kashiwa Reysol",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 20366,
+            "VideoName": "Chattogram City FC Brothers Union Ltd",
+            "CategoryName": "Federation Cup 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 14:30:00",
+            "Description": "Watch Chattogram City FC vs  Brothers Union Ltd in the The Federation Cup 2026. The Federation Cup 2026/27 brings together Bangladesh's leading football clubs for an exciting domestic cup competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the season. The Chattogram City FC vs  Brothers Union Ltd match will take place on 24-Nov, at 02:30 PM. Stream all Federation Cup 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795501947540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795501947540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1106,
+            "UrlSlug": "federation-cup-football-live"
+        },
+        {
+            "EntityId": 20365,
+            "VideoName": "Abahani Ltd. DhakaFakirerpool Young Mens Club",
+            "CategoryName": "Federation Cup 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 14:30:00",
+            "Description": "Watch Abahani Ltd. Dhaka vs Fakirerpool Young Mens Club in the The Federation Cup 2026. The Federation Cup 2026/27 brings together Bangladesh's leading football clubs for an exciting domestic cup competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the season. The Abahani Ltd. Dhaka vs Fakirerpool Young Mens Club match will take place on 24-Nov, at 02:30 PM. Stream all Federation Cup 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795501821540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795501821540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1106,
+            "UrlSlug": "federation-cup-football-live"
+        },
+        {
+            "EntityId": 20364,
+            "VideoName": "Fortis FC Ltd vs Rahamatgonj MFS",
+            "CategoryName": "Federation Cup 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 14:30:00",
+            "Description": "Watch Fortis FC Ltd vs Rahamatgonj MFS in the The Federation Cup 2026. The Federation Cup 2026/27 brings together Bangladesh's leading football clubs for an exciting domestic cup competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the season. The Fortis FC Ltd vs Rahamatgonj MFS match will take place on 30-Dec, at 12:00 AM. Stream all Federation Cup 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795501699540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795501699540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1106,
+            "UrlSlug": "federation-cup-football-live"
         },
         {
             "EntityId": 19768,
@@ -193,32 +242,18 @@
             "UrlSlug": "afc-champions-league-elite-Al Nassr Club vs Al Sadd SC"
         },
         {
-            "EntityId": 19210,
-            "VideoName": "Melbourne Renegades vs Brisbane Heat",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-25 14:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The MLR vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 33rd T20I is scheduled to be played on 25-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795071505540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795071505540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "mlr-vs-brh-33rd-t20i-live"
-        },
-        {
-            "EntityId": 19803,
-            "VideoName": "Gamba Osaka (JPN) vs Port FC (THA)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
+            "EntityId": 19401,
+            "VideoName": "Slovan Bratislava vs Real Betis",
+            "CategoryName": "UEFA Champions League 2026/27",
             "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-25 16:00:00",
-            "Description": "Watch Gamba Osaka vs Port FC live online on tapmad. The AFC Champions League Elite Gamba Osaka vs Port FC match is scheduled to take place on 25-Nov,  at 03:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795364190540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795364190540x302.jpg",
+            "EventStartDate": "2026-11-25 02:00:00",
+            "Description": "Watch Slovan Bratislava vs Real Betis live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slovan Bratislava vs Real Betis match will take place on 25-Nov, Wednesday, at 02:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795504302540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795504302540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Gamba Osaka vs Port FC"
+            "CategoryId": 826,
+            "UrlSlug": "slovan bratislava-vs-real betis-ucl-live-match"
         }
     ]
 }

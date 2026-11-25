@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "10:45 PM 25-11-2026",
+        "LastUpdate": "11:00 PM 25-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -77,34 +77,6 @@
             "stream_url": [
                 "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19403,
-            "VideoName": "Slavia Praha vs Villarreal",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-25 23:45:00",
-            "Description": "Watch Slavia Praha vs Villarreal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Villarreal match will take place on 25-Nov, Wednesday, at 11:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795504567540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795504567540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "slavia praha-vs-villarreal-ucl-live-match"
-        },
-        {
-            "EntityId": 19402,
-            "VideoName": "Sabah vs Barcelona",
-            "CategoryName": "UEFA Champions League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-25 23:45:00",
-            "Description": "Watch Sabah vs Barcelona live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Sabah vs Barcelona match will take place on 25-Nov, Wednesday, at 11:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795504435540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795504435540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 826,
-            "UrlSlug": "sabah-vs-barcelona-ucl-live-match"
         },
         {
             "EntityId": 19608,
@@ -283,6 +255,34 @@
             "Description": "Watch Gangwon FC vs Kitchee SC live online on tapmad. The AFC Champions League Two Gangwon FC vs Kitchee SC match is scheduled to take place on 26-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795595685540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795595685540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 19643,
+            "VideoName": "Tai Po FC (HKG) vs Adelaide United FC (AUS)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-26 18:15:00",
+            "Description": "Watch Tai Po FC vs Adelaide United FC live online on tapmad. The AFC Champions League Two Tai Po FC vs Adelaide United FC match is scheduled to take place on 26-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795597546540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795597546540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 19638,
+            "VideoName": "BG Pathum United (THA) vs Lion City Sailors FC (SGP)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-26 18:15:00",
+            "Description": "Watch BG Pathum United vs Lion City Sailors FC live online on tapmad. The AFC Champions League Two BG Pathum United vs Lion City Sailors FC match is scheduled to take place on 26-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795597094540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795597094540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 829,

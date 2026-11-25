@@ -1,32 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:45 PM 25-11-2026",
+        "LastUpdate": "04:00 PM 25-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 3,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19578,
-            "VideoName": "Melbourne Victory FC (AUS) vs The Cong - Viettel FC (VIE)",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-25 13:45:00",
-            "Description": "Watch Melbourne Victory FC vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two Melbourne Victory FC vs The Cong - Viettel FC match is scheduled to take place on 25-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795509969540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795509969540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-            ]
-        },
         {
             "EntityId": 19210,
             "VideoName": "Melbourne Renegades vs Brisbane Heat",
@@ -54,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795364190540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795364190540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Gamba Osaka vs Port FC"
+            "UrlSlug": "afc-champions-league-elite-Gamba Osaka vs Port FC",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+            ]
         },
         {
             "EntityId": 19798,
@@ -68,9 +54,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795364535540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795364535540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Kashima Antlers vs Jeonbuk Hyundai Motors FC"
+            "UrlSlug": "afc-champions-league-elite-Kashima Antlers vs Jeonbuk Hyundai Motors FC",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+            ]
         },
         {
             "EntityId": 19613,
@@ -253,6 +242,34 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "shakhtar donetsk-vs-fenerbahce-ucl-live-match"
+        },
+        {
+            "EntityId": 19406,
+            "VideoName": "Inter vs Stuttgart",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-26 02:00:00",
+            "Description": "Watch Inter vs Stuttgart live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Inter vs Stuttgart match will take place on 26-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795506911540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795506911540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "inter-vs-stuttgart-ucl-live-match"
+        },
+        {
+            "EntityId": 19405,
+            "VideoName": "Club Brugge vs Liverpool",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-26 02:00:00",
+            "Description": "Watch Club Brugge vs Liverpool live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Club Brugge vs Liverpool match will take place on 26-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795506747540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795506747540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "club brugge-vs-liverpool-ucl-live-match"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "05:30 AM 28-11-2026",
+        "LastUpdate": "05:45 AM 28-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -43,20 +43,6 @@
             "stream_url": [
                 "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 20533,
-            "VideoName": "GT1 Race Club - Race 2 - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-11-28 06:20:00",
-            "Description": "The  GT1 Race Club - Race 2 - Adelaide, Australia match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795764592540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795764592540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "gt1-race-club---race-2---adelaide,-australia-live"
         },
         {
             "EntityId": 19214,
@@ -253,6 +239,20 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "le mans-vs-losc-ligue-one-live-match"
+        },
+        {
+            "EntityId": 19979,
+            "VideoName": "PSG vs Lorient",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 12",
+            "EventStartDate": "2026-11-29 01:45:00",
+            "Description": "Watch PSG vs Lorient live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The PSG vs Lorient match will take place on 29-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795598794540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795598794540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "psg-vs-lorient-ligue-one-live-match"
         }
     ]
 }

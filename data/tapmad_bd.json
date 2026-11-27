@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:30 PM 27-11-2026",
+        "LastUpdate": "01:45 PM 27-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -20,9 +20,13 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813228540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794813228540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1327,
-            "UrlSlug": "aus-vs-eng-3rd-t20i-live"
+            "UrlSlug": "aus-vs-eng-3rd-t20i-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+            ]
         },
         {
             "EntityId": 20370,
@@ -165,6 +169,34 @@
             "UrlSlug": "nz-vs-ind-2nd-test-live"
         },
         {
+            "EntityId": 20530,
+            "VideoName": "GTWCA - Race 1 - Adelaide, Australia",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-11-28 04:40:00",
+            "Description": "The  GTWCA - Race 1 - Adelaide, Australia match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795763914540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795763914540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gtwca---race-1---adelaide,-australia-live"
+        },
+        {
+            "EntityId": 20533,
+            "VideoName": "GT1 Race Club - Race 2 - Adelaide, Australia",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-11-28 06:20:00",
+            "Description": "The  GT1 Race Club - Race 2 - Adelaide, Australia match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795764592540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795764592540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt1-race-club---race-2---adelaide,-australia-live"
+        },
+        {
             "EntityId": 19214,
             "VideoName": "Melbourne Renegades vs Melbourne Stars",
             "CategoryName": "Women's Big Bash League 2026",
@@ -201,20 +233,6 @@
             "Description": "Watch Chattogram City FC vs Brothers Union Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Chattogram City FC vs Brothers Union Ltd match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679609540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679609540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2038"
-        },
-        {
-            "EntityId": 20371,
-            "VideoName": "City Club vs PWD Sports Club",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 6",
-            "EventStartDate": "2026-11-28 14:30:00",
-            "Description": "Watch City Club vs PWD Sports Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The City Club vs PWD Sports Club match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679544540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679544540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
             "CategoryId": 1105,

@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 AM 28-11-2026",
+        "LastUpdate": "03:45 AM 28-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -11,20 +11,20 @@
     },
     "Matches": [
         {
-            "EntityId": 19977,
-            "VideoName": "Brest vs Paris FC",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 12",
-            "EventStartDate": "2026-11-28 01:45:00",
-            "Description": "Watch Brest vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Brest vs Paris FC match will take place on 28-Nov, Saturday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795598315540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795598315540x302.jpg",
+            "EntityId": 19066,
+            "VideoName": "New Zealand vs India",
+            "CategoryName": "India Tour of New Zealand 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-11-27 04:00:00",
+            "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 27-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794815049540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794815049540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
-            "CategoryId": 1115,
-            "UrlSlug": "brest-vs-paris fc-ligue-one-live-match",
+            "CategoryId": 1214,
+            "UrlSlug": "nz-vs-ind-2nd-test-live",
             "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
             ]
         },
         {
@@ -43,20 +43,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19066,
-            "VideoName": "New Zealand vs India",
-            "CategoryName": "India Tour of New Zealand 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-11-28 04:00:00",
-            "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 27-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794815049540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794815049540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1214,
-            "UrlSlug": "nz-vs-ind-2nd-test-live"
         },
         {
             "EntityId": 20530,
@@ -253,6 +239,20 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "le havre-vs-strasbourg-ligue-one-live-match"
+        },
+        {
+            "EntityId": 19981,
+            "VideoName": "Nice vs Troyes",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 12",
+            "EventStartDate": "2026-11-29 01:45:00",
+            "Description": "Watch Nice vs Troyes live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Nice vs Troyes match will take place on 29-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795601726540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795601726540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "nice-vs-troyes-ligue-one-live-match"
         }
     ]
 }

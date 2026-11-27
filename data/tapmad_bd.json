@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:30 AM 27-11-2026",
+        "LastUpdate": "06:45 AM 27-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -29,23 +29,6 @@
             ]
         },
         {
-            "EntityId": 20518,
-            "VideoName": "GT1 Race Club - Qualifying Round - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Race",
-            "EventStartDate": "2026-11-27 04:45:00",
-            "Description": "The  GT1 Race Club - Qualifying Round - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795720174540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795720174540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "-gt1-race-club---qualifying-round---adelaide,-australia--live",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-            ]
-        },
-        {
             "EntityId": 20521,
             "VideoName": "GTWCA - Qualifying Round - Part 1 - Adelaide, Australia",
             "CategoryName": "GT World Challenge EU & Asia 2026",
@@ -55,23 +38,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795720773540456.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795720773540456.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "-gtwca---qualifying-round---part-1---adelaide,-australia--live"
-        },
-        {
-            "EntityId": 20524,
-            "VideoName": "GTWCA - Qualifying Round - Part 2 - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Race",
-            "EventStartDate": "2026-11-27 07:05:00",
-            "Description": "The  GTWCA - Qualifying Round - Part 2 - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795721123540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795721123540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "-gtwca---qualifying-round---part-2---adelaide,-australia--live"
+            "UrlSlug": "-gtwca---qualifying-round---part-1---adelaide,-australia--live",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+            ]
         },
         {
             "EntityId": 20527,
@@ -254,6 +226,34 @@
             "Status": "Upcoming",
             "CategoryId": 1247,
             "UrlSlug": "sct-vs-sys-38th-t20i-live"
+        },
+        {
+            "EntityId": 20372,
+            "VideoName": "Chattogram City FC vs Brothers Union Ltd",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch Chattogram City FC vs Brothers Union Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Chattogram City FC vs Brothers Union Ltd match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679609540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679609540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038"
+        },
+        {
+            "EntityId": 20371,
+            "VideoName": "City Club vs PWD Sports Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch City Club vs PWD Sports Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The City Club vs PWD Sports Club match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679544540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679544540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 27-11-2026",
+        "LastUpdate": "02:45 PM 27-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -38,9 +38,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679479540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679479540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
+            "UrlSlug": "bangladesh-football-league-2026",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
+            ]
         },
         {
             "EntityId": 20369,
@@ -52,9 +55,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679400540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679400540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
+            "UrlSlug": "bangladesh-football-league-2026",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
         },
         {
             "EntityId": 20367,
@@ -66,9 +72,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679248540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679248540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
+            "UrlSlug": "bangladesh-football-league-2026",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+            ]
         },
         {
             "EntityId": 19213,
@@ -237,6 +246,48 @@
             "Status": "Upcoming",
             "CategoryId": 1105,
             "UrlSlug": "bangladesh-football-league-2038"
+        },
+        {
+            "EntityId": 20371,
+            "VideoName": "City Club vs PWD Sports Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch City Club vs PWD Sports Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The City Club vs PWD Sports Club match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679544540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679544540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038"
+        },
+        {
+            "EntityId": 20265,
+            "VideoName": "Al-Hazem vs Al-Nassr",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 13",
+            "EventStartDate": "2026-11-28 18:15:00",
+            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Hazem vs Al-Nassr live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795677677540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795677677540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-hazem-vs-al-nassr-live"
+        },
+        {
+            "EntityId": 20251,
+            "VideoName": "Betis vs Rayo Vallecano",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 14",
+            "EventStartDate": "2026-11-28 19:00:00",
+            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795680456540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795680456540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--betis-vs-rayo-vallecano-live"
         }
     ]
 }

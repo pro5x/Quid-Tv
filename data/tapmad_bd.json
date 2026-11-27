@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "04:45 AM 28-11-2026",
+        "LastUpdate": "05:00 AM 28-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -28,23 +28,6 @@
             ]
         },
         {
-            "EntityId": 20250,
-            "VideoName": "Levante vs Racing Santander",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 14",
-            "EventStartDate": "2026-11-28 02:00:00",
-            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Levante vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795680381540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795680381540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--levante-vs-racing-santander-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
-            ]
-        },
-        {
             "EntityId": 20530,
             "VideoName": "GTWCA - Race 1 - Adelaide, Australia",
             "CategoryName": "GT World Challenge EU & Asia 2026",
@@ -54,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795763914540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795763914540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 371,
-            "UrlSlug": "gtwca---race-1---adelaide,-australia-live"
+            "UrlSlug": "gtwca---race-1---adelaide,-australia-live",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+            ]
         },
         {
             "EntityId": 20533,
@@ -253,6 +239,20 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "nice-vs-troyes-ligue-one-live-match"
+        },
+        {
+            "EntityId": 19980,
+            "VideoName": "Le Mans vs LOSC",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 12",
+            "EventStartDate": "2026-11-29 01:45:00",
+            "Description": "Watch Le Mans vs LOSC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Mans vs LOSC match will take place on 29-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795598930540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795598930540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "le mans-vs-losc-ligue-one-live-match"
         }
     ]
 }

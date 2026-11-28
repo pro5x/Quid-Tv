@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:00 PM 28-11-2026",
+        "LastUpdate": "02:15 PM 28-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -23,6 +23,23 @@
             "Status": "Live",
             "CategoryId": 1247,
             "UrlSlug": "mlr-vs-sta-37th-t20i-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 19215,
+            "VideoName": "Sydney Thunder vs Sydney Sixers",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-11-28 14:10:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs SYS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 38th T20I is scheduled to be played on 28-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795415568540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795415568540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1247,
+            "UrlSlug": "sct-vs-sys-38th-t20i-live",
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
             ]

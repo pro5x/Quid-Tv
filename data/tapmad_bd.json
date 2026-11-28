@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:15 PM 28-11-2026",
+        "LastUpdate": "02:30 PM 28-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 4,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -42,6 +42,40 @@
             "UrlSlug": "sct-vs-sys-38th-t20i-live",
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 20372,
+            "VideoName": "Chattogram City FC vs Brothers Union Ltd",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch Chattogram City FC vs Brothers Union Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Chattogram City FC vs Brothers Union Ltd match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679609540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679609540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
+            ]
+        },
+        {
+            "EntityId": 20371,
+            "VideoName": "City Club vs PWD Sports Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch City Club vs PWD Sports Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The City Club vs PWD Sports Club match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679544540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679544540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
             ]
         },
         {
